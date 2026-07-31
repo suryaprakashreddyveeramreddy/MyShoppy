@@ -4,8 +4,13 @@ import { Ionicons } from "@expo/vector-icons";
 import { useNavigation } from "@react-navigation/native";
 import { useCart } from "../context/CartContext";
 import AppHeader from "../components/AppHeader";
+import { useEffect } from "react";
+
 
 export default function CartScreen() {
+  useEffect(() => {
+  console.log("CartScreen");
+}, []);
   const navigation = useNavigation<any>();
 
   const {cart,increaseQuantity,decreaseQuantity,removeFromCart,getTotal,

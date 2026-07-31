@@ -1,9 +1,15 @@
 import React from "react";
 import { SafeAreaView, View, Image, StyleSheet } from "react-native";
 import AppHeader from "../components/AppHeader";
+import { useEffect } from "react";
+
 
 export default function HomeScreen() {
+  useEffect(() => {
+  console.log("HomeScreen");
+}, []);
   return (
+    
     <SafeAreaView style={styles.container}>
       <AppHeader />
 

@@ -11,16 +11,19 @@ import {
 } from "react-native";
 import { RouteProp, useRoute } from "@react-navigation/native";
 import { Ionicons } from "@expo/vector-icons";
-import { RootStackParamList } from "../types/navigation";
+import { CategoriesStackParamList } from "../types/navigation";
 import { useCart } from "../context/CartContext";
 import AppHeader from "../components/AppHeader";
 
 type ProductDetailsRouteProp = RouteProp<
-  RootStackParamList,
+  CategoriesStackParamList,
   "ProductDetails"
 >;
 
 export default function ProductDetailsScreen({ navigation }: any) {
+  useEffect(() => {
+    loadProduct();
+  }, []);
   const route = useRoute<ProductDetailsRouteProp>();
 
   const { productId } = route.params;
@@ -29,18 +32,20 @@ export default function ProductDetailsScreen({ navigation }: any) {
   const [product, setProduct] = useState<any>(null);
   const [loading, setLoading] = useState(true);
 
-  useEffect(() => {
-    loadProduct();
-  }, []);
+  
 
   const loadProduct = async () => {
     try {
-      const response = await fetch(
-        `https://dummyjson.com/products/${productId}`
-      );
+     const response = await fetch(
+  `http://localhost:3000/products/${productId}`
+);
 
-      const data = await response.json();
-      setProduct(data);
+useEffect(() => {
+  console.log("ProductDetailsScreen");
+  loadProduct();
+}, []);
+const data = await response.json();
+setProduct(data);
     } catch (error) {
       console.log(error);
     } finally {

@@ -2,53 +2,59 @@ import React from "react";
 import {SafeAreaView,View,Text,StyleSheet,FlatList,TouchableOpacity,Image,} from "react-native";
 import { useNavigation } from "@react-navigation/native";
 import AppHeader from "../components/AppHeader";
+import { useEffect } from "react";
 
 const categories = [
   {
     id: "1",
     title: "Furniture",
     image: require("../../assets/images/furniture.png"),
-    apiCategory: "furniture",
+    apiCategory: "Furniture",
   },
   {
     id: "2",
     title: "Mobiles",
     image: require("../../assets/images/mobile.png"),
-    apiCategory: "smartphones"
+    apiCategory: "Mobiles",
   },
   {
     id: "3",
-    title: "Appliences",
+    title: "Appliances",
     image: require("../../assets/images/applience.png"),
-    apiCategory: "kitchen-accessories",
+    apiCategory: "Appliances",
   },
   {
     id: "4",
     title: "Tech",
     image: require("../../assets/images/tech.png"),
-    apiCategory: "laptops",
+    apiCategory: "Tech",
   },
   {
     id: "5",
     title: "Fashion",
     image: require("../../assets/images/fashion.png"),
-    apiCategory: "mens-shirts",
+    apiCategory: "Fashion",
   },
   {
     id: "6",
-    title: "Grocery",
+    title: "Groceries",
     image: require("../../assets/images/groceries.png"),
-    apiCategory: "groceries",
+    apiCategory: "Groceries",
   },
-{
-  id: "7",
-  title: "Beauty",
-  image: require("../../assets/images/beauty.png"),
-  apiCategory: "beauty",
-},
+  {
+    id: "7",
+    title: "Beauty",
+    image: require("../../assets/images/beauty.png"),
+    apiCategory: "Beauty",
+  },
 ];
 
 export default function CategoriesScreen() {
+  
+useEffect(() => {
+  console.log("CategoriesHomeScreen");
+}, []);
+
   const navigation = useNavigation<any>();
 
   return (

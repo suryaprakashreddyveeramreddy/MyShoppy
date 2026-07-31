@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import {
   SafeAreaView,
   ScrollView,
@@ -13,7 +13,11 @@ import { Ionicons } from "@expo/vector-icons";
 import { useNavigation } from "@react-navigation/native";
 import { useCart } from "../context/CartContext";
 
+
 export default function CheckoutScreen() {
+  useEffect(() => {
+  console.log("OrderSuccessScreen");
+}, []);
   const navigation = useNavigation<any>();
 
   const { getTotal, clearCart } = useCart();

@@ -119,6 +119,789 @@
         "https://picsum.photos/400?random=10"
       ],
       "rating": 4.8
-    }
+    },
+    {
+  "id": 11,
+  "title": "Vitamin C Face Serum",
+  "description": "Brightens skin and reduces dark spots.",
+  "price": 699,
+  "category": "Beauty",
+  "thumbnail": "https://picsum.photos/400?random=11",
+  "images": [
+    "https://picsum.photos/400?random=11"
+  ],
+  "rating": 4.8,
+  "stock": 25
+},
+{
+  "id": 12,
+  "title": "Matte Lipstick",
+  "description": "Long-lasting matte finish lipstick.",
+  "price": 499,
+  "category": "Beauty",
+  "thumbnail": "https://picsum.photos/400?random=12",
+  "images": [
+    "https://picsum.photos/400?random=12"
+  ],
+  "rating": 4.6,
+  "stock": 40
+},
+{
+  "id": 13,
+  "title": "Face Wash",
+  "description": "Deep cleansing face wash for all skin types.",
+  "price": 349,
+  "category": "Beauty",
+  "thumbnail": "https://picsum.photos/400?random=13",
+  "images": [
+    "https://picsum.photos/400?random=13"
+  ],
+  "rating": 4.5,
+  "stock": 35
+},
+{
+  "id": 14,
+  "title": "Moisturizing Cream",
+  "description": "Keeps your skin soft and hydrated.",
+  "price": 599,
+  "category": "Beauty",
+  "thumbnail": "https://picsum.photos/400?random=14",
+  "images": [
+    "https://picsum.photos/400?random=14"
+  ],
+  "rating": 4.7,
+  "stock": 30
+},
+{
+  "id": 15,
+  "title": "Sunscreen SPF 50",
+  "description": "Broad-spectrum sun protection.",
+  "price": 799,
+  "category": "Beauty",
+  "thumbnail": "https://picsum.photos/400?random=15",
+  "images": [
+    "https://picsum.photos/400?random=15"
+  ],
+  "rating": 4.9,
+  "stock": 20
+},
+{
+  "id": 16,
+  "title": "Hair Shampoo",
+  "description": "Nourishing shampoo for healthy hair.",
+  "price": 399,
+  "category": "Beauty",
+  "thumbnail": "https://picsum.photos/400?random=16",
+  "images": [
+    "https://picsum.photos/400?random=16"
+  ],
+  "rating": 4.4,
+  "stock": 45
+},
+{
+  "id": 17,
+  "title": "Hair Conditioner",
+  "description": "Smoothens and strengthens hair.",
+  "price": 449,
+  "category": "Beauty",
+  "thumbnail": "https://picsum.photos/400?random=17",
+  "images": [
+    "https://picsum.photos/400?random=17"
+  ],
+  "rating": 4.5,
+  "stock": 32
+},
+{
+  "id": 18,
+  "title": "Perfume",
+  "description": "Premium floral fragrance.",
+  "price": 1499,
+  "category": "Beauty",
+  "thumbnail": "https://picsum.photos/400?random=18",
+  "images": [
+    "https://picsum.photos/400?random=18"
+  ],
+  "rating": 4.8,
+  "stock": 18
+},
+{
+  "id": 19,
+  "title": "Body Lotion",
+  "description": "24-hour moisturizing body lotion.",
+  "price": 549,
+  "category": "Beauty",
+  "thumbnail": "https://picsum.photos/400?random=19",
+  "images": [
+    "https://picsum.photos/400?random=19"
+  ],
+  "rating": 4.6,
+  "stock": 28
+},
+{
+  "id": 20,
+  "title": "Nail Polish",
+  "description": "Quick-dry glossy nail color.",
+  "price": 299,
+  "category": "Beauty",
+  "thumbnail": "https://picsum.photos/400?random=20",
+  "images": [
+    "https://picsum.photos/400?random=20"
+  ],
+  "rating": 4.4,
+  "stock": 50
+},
+{
+  "id": 21,
+  "title": "Men's Casual T-Shirt",
+  "description": "100% cotton round neck T-shirt.",
+  "price": 599,
+  "category": "Fashion",
+  "thumbnail": "https://picsum.photos/400?random=21",
+  "images": [
+    "https://picsum.photos/400?random=21"
+  ],
+  "rating": 4.5,
+  "stock": 40
+},
+{
+  "id": 22,
+  "title": "Women's Kurti",
+  "description": "Comfortable printed cotton kurti.",
+  "price": 899,
+  "category": "Fashion",
+  "thumbnail": "https://picsum.photos/400?random=22",
+  "images": [
+    "https://picsum.photos/400?random=22"
+  ],
+  "rating": 4.7,
+  "stock": 30
+},
+{
+  "id": 23,
+  "title": "Men's Jeans",
+  "description": "Slim fit stretchable denim jeans.",
+  "price": 1499,
+  "category": "Fashion",
+  "thumbnail": "https://picsum.photos/400?random=23",
+  "images": [
+    "https://picsum.photos/400?random=23"
+  ],
+  "rating": 4.6,
+  "stock": 25
+},
+{
+  "id": 24,
+  "title": "Women's Handbag",
+  "description": "Stylish leather handbag.",
+  "price": 1999,
+  "category": "Fashion",
+  "thumbnail": "https://picsum.photos/400?random=24",
+  "images": [
+    "https://picsum.photos/400?random=24"
+  ],
+  "rating": 4.8,
+  "stock": 20
+},
+{
+  "id": 25,
+  "title": "Sports Shoes",
+  "description": "Lightweight running shoes.",
+  "price": 2499,
+  "category": "Fashion",
+  "thumbnail": "https://picsum.photos/400?random=25",
+  "images": [
+    "https://picsum.photos/400?random=25"
+  ],
+  "rating": 4.7,
+  "stock": 18
+},
+{
+  "id": 26,
+  "title": "Men's Hoodie",
+  "description": "Warm fleece hoodie.",
+  "price": 1299,
+  "category": "Fashion",
+  "thumbnail": "https://picsum.photos/400?random=26",
+  "images": [
+    "https://picsum.photos/400?random=26"
+  ],
+  "rating": 4.5,
+  "stock": 22
+},
+{
+  "id": 27,
+  "title": "Women's Saree",
+  "description": "Elegant silk saree.",
+  "price": 2999,
+  "category": "Fashion",
+  "thumbnail": "https://picsum.photos/400?random=27",
+  "images": [
+    "https://picsum.photos/400?random=27"
+  ],
+  "rating": 4.9,
+  "stock": 15
+},
+{
+  "id": 28,
+  "title": "Baseball Cap",
+  "description": "Adjustable cotton cap.",
+  "price": 399,
+  "category": "Fashion",
+  "thumbnail": "https://picsum.photos/400?random=28",
+  "images": [
+    "https://picsum.photos/400?random=28"
+  ],
+  "rating": 4.3,
+  "stock": 35
+},
+{
+  "id": 29,
+  "title": "Leather Wallet",
+  "description": "Premium men's leather wallet.",
+  "price": 799,
+  "category": "Fashion",
+  "thumbnail": "https://picsum.photos/400?random=29",
+  "images": [
+    "https://picsum.photos/400?random=29"
+  ],
+  "rating": 4.6,
+  "stock": 28
+},
+{
+  "id": 30,
+  "title": "Women's Sandals",
+  "description": "Comfortable daily wear sandals.",
+  "price": 999,
+  "category": "Fashion",
+  "thumbnail": "https://picsum.photos/400?random=30",
+  "images": [
+    "https://picsum.photos/400?random=30"
+  ],
+  "rating": 4.5,
+  "stock": 26
+},
+{
+  "id": 31,
+  "title": "Basmati Rice (5kg)",
+  "description": "Premium long grain basmati rice.",
+  "price": 699,
+  "category": "Groceries",
+  "thumbnail": "https://picsum.photos/400?random=31",
+  "images": [
+    "https://picsum.photos/400?random=31"
+  ],
+  "rating": 4.8,
+  "stock": 50
+},
+{
+  "id": 32,
+  "title": "Wheat Flour (10kg)",
+  "description": "Fresh whole wheat flour.",
+  "price": 549,
+  "category": "Groceries",
+  "thumbnail": "https://picsum.photos/400?random=32",
+  "images": [
+    "https://picsum.photos/400?random=32"
+  ],
+  "rating": 4.7,
+  "stock": 45
+},
+{
+  "id": 33,
+  "title": "Sunflower Oil (1L)",
+  "description": "Refined sunflower cooking oil.",
+  "price": 179,
+  "category": "Groceries",
+  "thumbnail": "https://picsum.photos/400?random=33",
+  "images": [
+    "https://picsum.photos/400?random=33"
+  ],
+  "rating": 4.6,
+  "stock": 60
+},
+{
+  "id": 34,
+  "title": "Sugar (1kg)",
+  "description": "Refined white sugar.",
+  "price": 55,
+  "category": "Groceries",
+  "thumbnail": "https://picsum.photos/400?random=34",
+  "images": [
+    "https://picsum.photos/400?random=34"
+  ],
+  "rating": 4.5,
+  "stock": 80
+},
+{
+  "id": 35,
+  "title": "Toor Dal (1kg)",
+  "description": "High-quality split pigeon peas.",
+  "price": 199,
+  "category": "Groceries",
+  "thumbnail": "https://picsum.photos/400?random=35",
+  "images": [
+    "https://picsum.photos/400?random=35"
+  ],
+  "rating": 4.7,
+  "stock": 55
+},
+{
+  "id": 36,
+  "title": "Salt (1kg)",
+  "description": "Iodized table salt.",
+  "price": 25,
+  "category": "Groceries",
+  "thumbnail": "https://picsum.photos/400?random=36",
+  "images": [
+    "https://picsum.photos/400?random=36"
+  ],
+  "rating": 4.4,
+  "stock": 100
+},
+{
+  "id": 37,
+  "title": "Tea Powder (500g)",
+  "description": "Premium strong tea leaves.",
+  "price": 249,
+  "category": "Groceries",
+  "thumbnail": "https://picsum.photos/400?random=37",
+  "images": [
+    "https://picsum.photos/400?random=37"
+  ],
+  "rating": 4.8,
+  "stock": 35
+},
+{
+  "id": 38,
+  "title": "Instant Coffee (200g)",
+  "description": "Rich aroma instant coffee.",
+  "price": 349,
+  "category": "Groceries",
+  "thumbnail": "https://picsum.photos/400?random=38",
+  "images": [
+    "https://picsum.photos/400?random=38"
+  ],
+  "rating": 4.6,
+  "stock": 30
+},
+{
+  "id": 39,
+  "title": "Mixed Dry Fruits (500g)",
+  "description": "Healthy mix of almonds, cashews and raisins.",
+  "price": 899,
+  "category": "Groceries",
+  "thumbnail": "https://picsum.photos/400?random=39",
+  "images": [
+    "https://picsum.photos/400?random=39"
+  ],
+  "rating": 4.9,
+  "stock": 25
+},
+{
+  "id": 40,
+  "title": "Biscuits Family Pack",
+  "description": "Crunchy assorted biscuits.",
+  "price": 149,
+  "category": "Groceries",
+  "thumbnail": "https://picsum.photos/400?random=40",
+  "images": [
+    "https://picsum.photos/400?random=40"
+  ],
+  "rating": 4.5,
+  "stock": 70
+},
+{
+  "id": 41,
+  "title": "Samsung Galaxy S24",
+  "description": "6.2-inch AMOLED display with 256GB storage.",
+  "price": 74999,
+  "category": "Mobiles",
+  "thumbnail": "https://picsum.photos/400?random=41",
+  "images": [
+    "https://picsum.photos/400?random=41"
+  ],
+  "rating": 4.8,
+  "stock": 15
+},
+{
+  "id": 42,
+  "title": "Apple iPhone 16",
+  "description": "128GB storage with A18 chip.",
+  "price": 79999,
+  "category": "Mobiles",
+  "thumbnail": "https://picsum.photos/400?random=42",
+  "images": [
+    "https://picsum.photos/400?random=42"
+  ],
+  "rating": 4.9,
+  "stock": 12
+},
+{
+  "id": 43,
+  "title": "OnePlus 13",
+  "description": "Snapdragon flagship performance with fast charging.",
+  "price": 69999,
+  "category": "Mobiles",
+  "thumbnail": "https://picsum.photos/400?random=43",
+  "images": [
+    "https://picsum.photos/400?random=43"
+  ],
+  "rating": 4.8,
+  "stock": 18
+},
+{
+  "id": 44,
+  "title": "Xiaomi Redmi Note 14",
+  "description": "Affordable smartphone with AMOLED display.",
+  "price": 19999,
+  "category": "Mobiles",
+  "thumbnail": "https://picsum.photos/400?random=44",
+  "images": [
+    "https://picsum.photos/400?random=44"
+  ],
+  "rating": 4.6,
+  "stock": 25
+},
+{
+  "id": 45,
+  "title": "Realme GT 7",
+  "description": "High-performance gaming smartphone.",
+  "price": 34999,
+  "category": "Mobiles",
+  "thumbnail": "https://picsum.photos/400?random=45",
+  "images": [
+    "https://picsum.photos/400?random=45"
+  ],
+  "rating": 4.7,
+  "stock": 20
+},
+{
+  "id": 46,
+  "title": "Google Pixel 9",
+  "description": "Excellent camera and clean Android experience.",
+  "price": 69999,
+  "category": "Mobiles",
+  "thumbnail": "https://picsum.photos/400?random=46",
+  "images": [
+    "https://picsum.photos/400?random=46"
+  ],
+  "rating": 4.8,
+  "stock": 14
+},
+{
+  "id": 47,
+  "title": "Motorola Edge 60",
+  "description": "Curved display with powerful processor.",
+  "price": 29999,
+  "category": "Mobiles",
+  "thumbnail": "https://picsum.photos/400?random=47",
+  "images": [
+    "https://picsum.photos/400?random=47"
+  ],
+  "rating": 4.5,
+  "stock": 22
+},
+{
+  "id": 48,
+  "title": "Vivo V50",
+  "description": "Slim design with excellent portrait camera.",
+  "price": 32999,
+  "category": "Mobiles",
+  "thumbnail": "https://picsum.photos/400?random=48",
+  "images": [
+    "https://picsum.photos/400?random=48"
+  ],
+  "rating": 4.6,
+  "stock": 20
+},
+{
+  "id": 49,
+  "title": "OPPO Reno 14",
+  "description": "AI-powered camera and fast charging.",
+  "price": 37999,
+  "category": "Mobiles",
+  "thumbnail": "https://picsum.photos/400?random=49",
+  "images": [
+    "https://picsum.photos/400?random=49"
+  ],
+  "rating": 4.6,
+  "stock": 16
+},
+{
+  "id": 50,
+  "title": "Nothing Phone (3)",
+  "description": "Unique transparent design with Glyph interface.",
+  "price": 49999,
+  "category": "Mobiles",
+  "thumbnail": "https://picsum.photos/400?random=50",
+  "images": [
+    "https://picsum.photos/400?random=50"
+  ],
+  "rating": 4.7,
+  "stock": 18
+},
+{
+  "id": 51,
+  "title": "Double Door Refrigerator",
+  "description": "260L frost-free refrigerator with inverter technology.",
+  "price": 28999,
+  "category": "Appliances",
+  "thumbnail": "https://picsum.photos/400?random=51",
+  "images": [
+    "https://picsum.photos/400?random=51"
+  ],
+  "rating": 4.8,
+  "stock": 12
+},
+{
+  "id": 52,
+  "title": "Front Load Washing Machine",
+  "description": "7kg fully automatic front load washing machine.",
+  "price": 32999,
+  "category": "Appliances",
+  "thumbnail": "https://picsum.photos/400?random=52",
+  "images": [
+    "https://picsum.photos/400?random=52"
+  ],
+  "rating": 4.7,
+  "stock": 10
+},
+{
+  "id": 53,
+  "title": "Microwave Oven",
+  "description": "25L convection microwave oven.",
+  "price": 11999,
+  "category": "Appliances",
+  "thumbnail": "https://picsum.photos/400?random=53",
+  "images": [
+    "https://picsum.photos/400?random=53"
+  ],
+  "rating": 4.6,
+  "stock": 18
+},
+{
+  "id": 54,
+  "title": "Air Conditioner",
+  "description": "1.5 Ton inverter split AC.",
+  "price": 38999,
+  "category": "Appliances",
+  "thumbnail": "https://picsum.photos/400?random=54",
+  "images": [
+    "https://picsum.photos/400?random=54"
+  ],
+  "rating": 4.8,
+  "stock": 8
+},
+{
+  "id": 55,
+  "title": "Electric Kettle",
+  "description": "1.8L stainless steel electric kettle.",
+  "price": 1499,
+  "category": "Appliances",
+  "thumbnail": "https://picsum.photos/400?random=55",
+  "images": [
+    "https://picsum.photos/400?random=55"
+  ],
+  "rating": 4.5,
+  "stock": 30
+},
+{
+  "id": 56,
+  "title": "Mixer Grinder",
+  "description": "750W mixer grinder with 3 jars.",
+  "price": 3999,
+  "category": "Appliances",
+  "thumbnail": "https://picsum.photos/400?random=56",
+  "images": [
+    "https://picsum.photos/400?random=56"
+  ],
+  "rating": 4.6,
+  "stock": 22
+},
+{
+  "id": 57,
+  "title": "Air Fryer",
+  "description": "5L digital air fryer for healthy cooking.",
+  "price": 6999,
+  "category": "Appliances",
+  "thumbnail": "https://picsum.photos/400?random=57",
+  "images": [
+    "https://picsum.photos/400?random=57"
+  ],
+  "rating": 4.7,
+  "stock": 16
+},
+{
+  "id": 58,
+  "title": "Vacuum Cleaner",
+  "description": "Bagless vacuum cleaner with powerful suction.",
+  "price": 5999,
+  "category": "Appliances",
+  "thumbnail": "https://picsum.photos/400?random=58",
+  "images": [
+    "https://picsum.photos/400?random=58"
+  ],
+  "rating": 4.5,
+  "stock": 20
+},
+{
+  "id": 59,
+  "title": "Induction Cooktop",
+  "description": "2000W induction cooktop with touch controls.",
+  "price": 2999,
+  "category": "Appliances",
+  "thumbnail": "https://picsum.photos/400?random=59",
+  "images": [
+    "https://picsum.photos/400?random=59"
+  ],
+  "rating": 4.6,
+  "stock": 25
+},
+{
+  "id": 60,
+  "title": "Ceiling Fan",
+  "description": "Energy-efficient 1200mm ceiling fan.",
+  "price": 2499,
+  "category": "Appliances",
+  "thumbnail": "https://picsum.photos/400?random=60",
+  "images": [
+    "https://picsum.photos/400?random=60"
+  ],
+  "rating": 4.4,
+  "stock": 35
+},
+{
+  "id": 61,
+  "title": "Apple MacBook Air M4",
+  "description": "13-inch laptop with Apple M4 chip and 16GB RAM.",
+  "price": 114999,
+  "category": "Tech",
+  "thumbnail": "https://picsum.photos/400?random=61",
+  "images": [
+    "https://picsum.photos/400?random=61"
+  ],
+  "rating": 4.9,
+  "stock": 8
+},
+{
+  "id": 62,
+  "title": "Dell Inspiron 15",
+  "description": "15.6-inch laptop with Intel Core i5 processor.",
+  "price": 62999,
+  "category": "Tech",
+  "thumbnail": "https://picsum.photos/400?random=62",
+  "images": [
+    "https://picsum.photos/400?random=62"
+  ],
+  "rating": 4.7,
+  "stock": 12
+},
+{
+  "id": 63,
+  "title": "Wireless Bluetooth Headphones",
+  "description": "Over-ear headphones with active noise cancellation.",
+  "price": 5999,
+  "category": "Tech",
+  "thumbnail": "https://picsum.photos/400?random=63",
+  "images": [
+    "https://picsum.photos/400?random=63"
+  ],
+  "rating": 4.8,
+  "stock": 30
+},
+{
+  "id": 64,
+  "title": "Mechanical Keyboard",
+  "description": "RGB mechanical gaming keyboard.",
+  "price": 3499,
+  "category": "Tech",
+  "thumbnail": "https://picsum.photos/400?random=64",
+  "images": [
+    "https://picsum.photos/400?random=64"
+  ],
+  "rating": 4.7,
+  "stock": 20
+},
+{
+  "id": 65,
+  "title": "Wireless Mouse",
+  "description": "Ergonomic Bluetooth wireless mouse.",
+  "price": 1499,
+  "category": "Tech",
+  "thumbnail": "https://picsum.photos/400?random=65",
+  "images": [
+    "https://picsum.photos/400?random=65"
+  ],
+  "rating": 4.6,
+  "stock": 40
+},
+{
+  "id": 66,
+  "title": "27-inch Monitor",
+  "description": "Full HD IPS monitor with ultra-thin bezels.",
+  "price": 14999,
+  "category": "Tech",
+  "thumbnail": "https://picsum.photos/400?random=66",
+  "images": [
+    "https://picsum.photos/400?random=66"
+  ],
+  "rating": 4.7,
+  "stock": 15
+},
+{
+  "id": 67,
+  "title": "Smart Watch",
+  "description": "Fitness tracking smartwatch with AMOLED display.",
+  "price": 7999,
+  "category": "Tech",
+  "thumbnail": "https://picsum.photos/400?random=67",
+  "images": [
+    "https://picsum.photos/400?random=67"
+  ],
+  "rating": 4.8,
+  "stock": 25
+},
+{
+  "id": 68,
+  "title": "Portable SSD 1TB",
+  "description": "High-speed USB-C external SSD.",
+  "price": 8999,
+  "category": "Tech",
+  "thumbnail": "https://picsum.photos/400?random=68",
+  "images": [
+    "https://picsum.photos/400?random=68"
+  ],
+  "rating": 4.9,
+  "stock": 18
+},
+{
+  "id": 69,
+  "title": "Gaming Controller",
+  "description": "Wireless controller compatible with PC and Android.",
+  "price": 2999,
+  "category": "Tech",
+  "thumbnail": "https://picsum.photos/400?random=69",
+  "images": [
+    "https://picsum.photos/400?random=69"
+  ],
+  "rating": 4.6,
+  "stock": 22
+},
+{
+  "id": 70,
+  "title": "USB-C Hub",
+  "description": "7-in-1 USB-C hub with HDMI and USB 3.0 ports.",
+  "price": 2499,
+  "category": "Tech",
+  "thumbnail": "https://picsum.photos/400?random=70",
+  "images": [
+    "https://picsum.photos/400?random=70"
+  ],
+  "rating": 4.5,
+  "stock": 35
+}
   ]
 }
+
+
+

@@ -7,12 +7,14 @@ import { CategoriesStackParamList } from "../types/navigation";
 import ProductCard from "../components/ProductCard";
 import AppHeader from "../components/AppHeader";
 
+
 type Props = NativeStackScreenProps<
   CategoriesStackParamList,
   "ProductList"
 >;
 
 export default function ProductListScreen({
+  
   navigation,
 }: Props) {
   const route = useRoute<any>();
@@ -23,28 +25,36 @@ export default function ProductListScreen({
   const [search, setSearch] = useState("");
   const [loading, setLoading] = useState(true);
 
-  useEffect(() => {
-    fetchProducts();
-  }, []);
+ 
 
   const fetchProducts = async () => {
-    try {
-      const response = await fetch(
-        `https://dummyjson.com/products/category/${category}`
-      );
+  try {
+    const url = `http://localhost:3000/products?category=${category}`;
+    console.log("URL:", url);
 
-      const data = await response.json();
-      setProducts(data.products);
-    } catch (error) {
-      console.log("Error fetching products:", error);
-    } finally {
-      setLoading(false);
-    }
-  };
+    const response = await fetch(url);
+    console.log("Status:", response.status);
+
+    const data = await response.json();
+    console.log("Category:", category);
+    console.log("Products:", data);
+
+    setProducts(data);
+  } catch (error) {
+    console.log("Error fetching products:", error);
+  } finally {
+    setLoading(false);
+  }
+};
 
   const filteredProducts = products.filter((item) =>
+    
     item.title.toLowerCase().includes(search.toLowerCase())
   );
+  useEffect(() => {
+  console.log(" ProductListScreen");
+  fetchProducts();
+}, []);
 
   if (loading) {
     return (
