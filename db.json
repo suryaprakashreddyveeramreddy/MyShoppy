@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Modern Wooden Sofa",
+      "description": "Comfortable 3-seater wooden sofa with premium cushions.",
+      "price": 24999,
+      "category": "Furniture",
+      "thumbnail": "https://picsum.photos/400?random=1",
+      "images": [
+        "https://picsum.photos/400?random=1"
+      ],
+      "rating": 4.6
+    },
+    {
+      "id": 2,
+      "title": "Office Chair",
+      "description": "Ergonomic office chair with adjustable height.",
+      "price": 8999,
+      "category": "Furniture",
+      "thumbnail": "https://picsum.photos/400?random=2",
+      "images": [
+        "https://picsum.photos/400?random=2"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "title": "Dining Table",
+      "description": "6-seater wooden dining table.",
+      "price": 18999,
+      "category": "Furniture",
+      "thumbnail": "https://picsum.photos/400?random=3",
+      "images": [
+        "https://picsum.photos/400?random=3"
+      ],
+      "rating": 4.4
+    },
+    {
+      "id": 4,
+      "title": "Queen Bed",
+      "description": "Solid wood queen size bed.",
+      "price": 29999,
+      "category": "Furniture",
+      "thumbnail": "https://picsum.photos/400?random=4",
+      "images": [
+        "https://picsum.photos/400?random=4"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "title": "Coffee Table",
+      "description": "Modern center coffee table.",
+      "price": 4999,
+      "category": "Furniture",
+      "thumbnail": "https://picsum.photos/400?random=5",
+      "images": [
+        "https://picsum.photos/400?random=5"
+      ],
+      "rating": 4.3
+    },
+    {
+      "id": 6,
+      "title": "Wardrobe",
+      "description": "3-door wooden wardrobe.",
+      "price": 22999,
+      "category": "Furniture",
+      "thumbnail": "https://picsum.photos/400?random=6",
+      "images": [
+        "https://picsum.photos/400?random=6"
+      ],
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "title": "TV Unit",
+      "description": "Wooden TV cabinet with storage.",
+      "price": 11999,
+      "category": "Furniture",
+      "thumbnail": "https://picsum.photos/400?random=7",
+      "images": [
+        "https://picsum.photos/400?random=7"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 8,
+      "title": "Bookshelf",
+      "description": "5-tier wooden bookshelf.",
+      "price": 7999,
+      "category": "Furniture",
+      "thumbnail": "https://picsum.photos/400?random=8",
+      "images": [
+        "https://picsum.photos/400?random=8"
+      ],
+      "rating": 4.2
+    },
+    {
+      "id": 9,
+      "title": "Study Table",
+      "description": "Compact study table with drawer.",
+      "price": 6999,
+      "category": "Furniture",
+      "thumbnail": "https://picsum.photos/400?random=9",
+      "images": [
+        "https://picsum.photos/400?random=9"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 10,
+      "title": "Recliner Chair",
+      "description": "Luxury recliner with footrest.",
+      "price": 17999,
+      "category": "Furniture",
+      "thumbnail": "https://picsum.photos/400?random=10",
+      "images": [
+        "https://picsum.photos/400?random=10"
+      ],
+      "rating": 4.8
+    }
+  ]
+}
