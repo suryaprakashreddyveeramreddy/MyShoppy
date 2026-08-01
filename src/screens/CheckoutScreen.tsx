@@ -12,6 +12,7 @@ import {
 import { Ionicons } from "@expo/vector-icons";
 import { useNavigation } from "@react-navigation/native";
 import { useCart } from "../context/CartContext";
+import { Colors } from "../constants/colors";
 
 
 export default function CheckoutScreen() {
@@ -75,11 +76,15 @@ export default function CheckoutScreen() {
   };
 
   const placeOrder = () => {
-    if (!validate()) return;
+  if (!validate()) return;
 
+  try {
     clearCart();
     setSuccessModal(true);
-  };
+  } catch (error) {
+    console.error("Error placing order:", error);
+  }
+};
 
   const PaymentOption = ({
     title,
@@ -88,7 +93,13 @@ export default function CheckoutScreen() {
   }) => (
     <TouchableOpacity
       style={styles.paymentRow}
-      onPress={() => setPaymentMethod(title)}
+     onPress={() => {
+  try {
+    setPaymentMethod(title);
+  } catch (error) {
+    console.error("Payment selection error:", error);
+  }
+}}
     >
       <Ionicons
         name={
@@ -225,9 +236,13 @@ export default function CheckoutScreen() {
             <TouchableOpacity
               style={styles.successButton}
               onPress={() => {
-                setSuccessModal(false);
-                navigation.popToTop();
-              }}
+  try {
+    setSuccessModal(false);
+    navigation.popToTop();
+  } catch (error) {
+    console.error("Navigation Error:", error);
+  }
+}}
             >
               <Text style={styles.successButtonText}>
                 Continue Shopping
@@ -243,25 +258,26 @@ export default function CheckoutScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#F8FCFC",
+    backgroundColor: Colors.background,
   },
 
   heading: {
     fontSize: 30,
     fontWeight: "bold",
-    color: "#4D6F75",
+    color: Colors.primary,
     marginBottom: 20,
   },
 
   input: {
-    backgroundColor: "#fff",
+    backgroundColor: Colors.white,
     borderRadius: 12,
     borderWidth: 1,
-    borderColor: "#D6E2E5",
+    borderColor: Colors.border,
     paddingHorizontal: 15,
     fontSize: 16,
     marginBottom: 15,
     height: 55,
+    color: Colors.text,
   },
 
   sectionTitle: {
@@ -269,7 +285,7 @@ const styles = StyleSheet.create({
     fontWeight: "700",
     marginTop: 10,
     marginBottom: 12,
-    color: "#333",
+    color: Colors.text,
   },
 
   paymentRow: {
@@ -281,7 +297,7 @@ const styles = StyleSheet.create({
   paymentText: {
     marginLeft: 10,
     fontSize: 17,
-    color: "#333",
+    color: Colors.text,
   },
 
   totalContainer: {
@@ -294,16 +310,17 @@ const styles = StyleSheet.create({
   totalLabel: {
     fontSize: 20,
     fontWeight: "700",
+    color: Colors.text,
   },
 
   totalPrice: {
     fontSize: 22,
     fontWeight: "bold",
-    color: "#4D6F75",
+    color: Colors.primary,
   },
 
   button: {
-    backgroundColor: "#4D6F75",
+    backgroundColor: Colors.primary,
     padding: 18,
     borderRadius: 15,
     alignItems: "center",
@@ -311,7 +328,7 @@ const styles = StyleSheet.create({
   },
 
   buttonText: {
-    color: "#fff",
+    color: Colors.white,
     fontSize: 18,
     fontWeight: "700",
   },
@@ -325,7 +342,7 @@ const styles = StyleSheet.create({
 
   modalContent: {
     width: "85%",
-    backgroundColor: "#fff",
+    backgroundColor: Colors.white,
     borderRadius: 20,
     padding: 30,
     alignItems: "center",
@@ -335,7 +352,7 @@ const styles = StyleSheet.create({
   successTitle: {
     fontSize: 28,
     fontWeight: "bold",
-    color: "#333",
+    color: Colors.text,
     marginTop: 15,
   },
 
@@ -343,19 +360,19 @@ const styles = StyleSheet.create({
     marginTop: 10,
     textAlign: "center",
     fontSize: 16,
-    color: "#666",
+    color: Colors.gray,
     marginBottom: 30,
   },
 
   successButton: {
-    backgroundColor: "#4D6F75",
+    backgroundColor: Colors.primary,
     paddingHorizontal: 35,
     paddingVertical: 14,
     borderRadius: 12,
   },
 
   successButtonText: {
-    color: "#fff",
+    color: Colors.white,
     fontSize: 17,
     fontWeight: "700",
   },

@@ -1,907 +1,826 @@
 {
   "products": [
-    {
-      "id": 1,
-      "title": "Modern Wooden Sofa",
-      "description": "Comfortable 3-seater wooden sofa with premium cushions.",
-      "price": 24999,
-      "category": "Furniture",
-      "thumbnail": "https://picsum.photos/400?random=1",
-      "images": [
-        "https://picsum.photos/400?random=1"
-      ],
-      "rating": 4.6
-    },
-    {
-      "id": 2,
-      "title": "Office Chair",
-      "description": "Ergonomic office chair with adjustable height.",
-      "price": 8999,
-      "category": "Furniture",
-      "thumbnail": "https://picsum.photos/400?random=2",
-      "images": [
-        "https://picsum.photos/400?random=2"
-      ],
-      "rating": 4.5
-    },
-    {
-      "id": 3,
-      "title": "Dining Table",
-      "description": "6-seater wooden dining table.",
-      "price": 18999,
-      "category": "Furniture",
-      "thumbnail": "https://picsum.photos/400?random=3",
-      "images": [
-        "https://picsum.photos/400?random=3"
-      ],
-      "rating": 4.4
-    },
-    {
-      "id": 4,
-      "title": "Queen Bed",
-      "description": "Solid wood queen size bed.",
-      "price": 29999,
-      "category": "Furniture",
-      "thumbnail": "https://picsum.photos/400?random=4",
-      "images": [
-        "https://picsum.photos/400?random=4"
-      ],
-      "rating": 4.7
-    },
-    {
-      "id": 5,
-      "title": "Coffee Table",
-      "description": "Modern center coffee table.",
-      "price": 4999,
-      "category": "Furniture",
-      "thumbnail": "https://picsum.photos/400?random=5",
-      "images": [
-        "https://picsum.photos/400?random=5"
-      ],
-      "rating": 4.3
-    },
-    {
-      "id": 6,
-      "title": "Wardrobe",
-      "description": "3-door wooden wardrobe.",
-      "price": 22999,
-      "category": "Furniture",
-      "thumbnail": "https://picsum.photos/400?random=6",
-      "images": [
-        "https://picsum.photos/400?random=6"
-      ],
-      "rating": 4.6
-    },
-    {
-      "id": 7,
-      "title": "TV Unit",
-      "description": "Wooden TV cabinet with storage.",
-      "price": 11999,
-      "category": "Furniture",
-      "thumbnail": "https://picsum.photos/400?random=7",
-      "images": [
-        "https://picsum.photos/400?random=7"
-      ],
-      "rating": 4.5
-    },
-    {
-      "id": 8,
-      "title": "Bookshelf",
-      "description": "5-tier wooden bookshelf.",
-      "price": 7999,
-      "category": "Furniture",
-      "thumbnail": "https://picsum.photos/400?random=8",
-      "images": [
-        "https://picsum.photos/400?random=8"
-      ],
-      "rating": 4.2
-    },
-    {
-      "id": 9,
-      "title": "Study Table",
-      "description": "Compact study table with drawer.",
-      "price": 6999,
-      "category": "Furniture",
-      "thumbnail": "https://picsum.photos/400?random=9",
-      "images": [
-        "https://picsum.photos/400?random=9"
-      ],
-      "rating": 4.5
-    },
-    {
-      "id": 10,
-      "title": "Recliner Chair",
-      "description": "Luxury recliner with footrest.",
-      "price": 17999,
-      "category": "Furniture",
-      "thumbnail": "https://picsum.photos/400?random=10",
-      "images": [
-        "https://picsum.photos/400?random=10"
-      ],
-      "rating": 4.8
-    },
-    {
-  "id": 11,
-  "title": "Vitamin C Face Serum",
-  "description": "Brightens skin and reduces dark spots.",
-  "price": 699,
-  "category": "Beauty",
-  "thumbnail": "https://picsum.photos/400?random=11",
-  "images": [
-    "https://picsum.photos/400?random=11"
-  ],
-  "rating": 4.8,
-  "stock": 25
-},
-{
-  "id": 12,
-  "title": "Matte Lipstick",
-  "description": "Long-lasting matte finish lipstick.",
-  "price": 499,
-  "category": "Beauty",
-  "thumbnail": "https://picsum.photos/400?random=12",
-  "images": [
-    "https://picsum.photos/400?random=12"
-  ],
-  "rating": 4.6,
-  "stock": 40
-},
-{
-  "id": 13,
-  "title": "Face Wash",
-  "description": "Deep cleansing face wash for all skin types.",
-  "price": 349,
-  "category": "Beauty",
-  "thumbnail": "https://picsum.photos/400?random=13",
-  "images": [
-    "https://picsum.photos/400?random=13"
-  ],
-  "rating": 4.5,
-  "stock": 35
-},
-{
-  "id": 14,
-  "title": "Moisturizing Cream",
-  "description": "Keeps your skin soft and hydrated.",
-  "price": 599,
-  "category": "Beauty",
-  "thumbnail": "https://picsum.photos/400?random=14",
-  "images": [
-    "https://picsum.photos/400?random=14"
-  ],
-  "rating": 4.7,
-  "stock": 30
-},
-{
-  "id": 15,
-  "title": "Sunscreen SPF 50",
-  "description": "Broad-spectrum sun protection.",
-  "price": 799,
-  "category": "Beauty",
-  "thumbnail": "https://picsum.photos/400?random=15",
-  "images": [
-    "https://picsum.photos/400?random=15"
-  ],
-  "rating": 4.9,
-  "stock": 20
-},
-{
-  "id": 16,
-  "title": "Hair Shampoo",
-  "description": "Nourishing shampoo for healthy hair.",
-  "price": 399,
-  "category": "Beauty",
-  "thumbnail": "https://picsum.photos/400?random=16",
-  "images": [
-    "https://picsum.photos/400?random=16"
-  ],
-  "rating": 4.4,
-  "stock": 45
-},
-{
-  "id": 17,
-  "title": "Hair Conditioner",
-  "description": "Smoothens and strengthens hair.",
-  "price": 449,
-  "category": "Beauty",
-  "thumbnail": "https://picsum.photos/400?random=17",
-  "images": [
-    "https://picsum.photos/400?random=17"
-  ],
-  "rating": 4.5,
-  "stock": 32
-},
-{
-  "id": 18,
-  "title": "Perfume",
-  "description": "Premium floral fragrance.",
-  "price": 1499,
-  "category": "Beauty",
-  "thumbnail": "https://picsum.photos/400?random=18",
-  "images": [
-    "https://picsum.photos/400?random=18"
-  ],
-  "rating": 4.8,
-  "stock": 18
-},
-{
-  "id": 19,
-  "title": "Body Lotion",
-  "description": "24-hour moisturizing body lotion.",
-  "price": 549,
-  "category": "Beauty",
-  "thumbnail": "https://picsum.photos/400?random=19",
-  "images": [
-    "https://picsum.photos/400?random=19"
-  ],
-  "rating": 4.6,
-  "stock": 28
-},
-{
-  "id": 20,
-  "title": "Nail Polish",
-  "description": "Quick-dry glossy nail color.",
-  "price": 299,
-  "category": "Beauty",
-  "thumbnail": "https://picsum.photos/400?random=20",
-  "images": [
-    "https://picsum.photos/400?random=20"
-  ],
-  "rating": 4.4,
-  "stock": 50
-},
-{
-  "id": 21,
-  "title": "Men's Casual T-Shirt",
-  "description": "100% cotton round neck T-shirt.",
-  "price": 599,
-  "category": "Fashion",
-  "thumbnail": "https://picsum.photos/400?random=21",
-  "images": [
-    "https://picsum.photos/400?random=21"
-  ],
-  "rating": 4.5,
-  "stock": 40
-},
-{
-  "id": 22,
-  "title": "Women's Kurti",
-  "description": "Comfortable printed cotton kurti.",
-  "price": 899,
-  "category": "Fashion",
-  "thumbnail": "https://picsum.photos/400?random=22",
-  "images": [
-    "https://picsum.photos/400?random=22"
-  ],
-  "rating": 4.7,
-  "stock": 30
-},
-{
-  "id": 23,
-  "title": "Men's Jeans",
-  "description": "Slim fit stretchable denim jeans.",
-  "price": 1499,
-  "category": "Fashion",
-  "thumbnail": "https://picsum.photos/400?random=23",
-  "images": [
-    "https://picsum.photos/400?random=23"
-  ],
-  "rating": 4.6,
-  "stock": 25
-},
-{
-  "id": 24,
-  "title": "Women's Handbag",
-  "description": "Stylish leather handbag.",
-  "price": 1999,
-  "category": "Fashion",
-  "thumbnail": "https://picsum.photos/400?random=24",
-  "images": [
-    "https://picsum.photos/400?random=24"
-  ],
-  "rating": 4.8,
-  "stock": 20
-},
-{
-  "id": 25,
-  "title": "Sports Shoes",
-  "description": "Lightweight running shoes.",
-  "price": 2499,
-  "category": "Fashion",
-  "thumbnail": "https://picsum.photos/400?random=25",
-  "images": [
-    "https://picsum.photos/400?random=25"
-  ],
-  "rating": 4.7,
-  "stock": 18
-},
-{
-  "id": 26,
-  "title": "Men's Hoodie",
-  "description": "Warm fleece hoodie.",
-  "price": 1299,
-  "category": "Fashion",
-  "thumbnail": "https://picsum.photos/400?random=26",
-  "images": [
-    "https://picsum.photos/400?random=26"
-  ],
-  "rating": 4.5,
-  "stock": 22
-},
-{
-  "id": 27,
-  "title": "Women's Saree",
-  "description": "Elegant silk saree.",
-  "price": 2999,
-  "category": "Fashion",
-  "thumbnail": "https://picsum.photos/400?random=27",
-  "images": [
-    "https://picsum.photos/400?random=27"
-  ],
-  "rating": 4.9,
-  "stock": 15
-},
-{
-  "id": 28,
-  "title": "Baseball Cap",
-  "description": "Adjustable cotton cap.",
-  "price": 399,
-  "category": "Fashion",
-  "thumbnail": "https://picsum.photos/400?random=28",
-  "images": [
-    "https://picsum.photos/400?random=28"
-  ],
-  "rating": 4.3,
-  "stock": 35
-},
-{
-  "id": 29,
-  "title": "Leather Wallet",
-  "description": "Premium men's leather wallet.",
-  "price": 799,
-  "category": "Fashion",
-  "thumbnail": "https://picsum.photos/400?random=29",
-  "images": [
-    "https://picsum.photos/400?random=29"
-  ],
-  "rating": 4.6,
-  "stock": 28
-},
-{
-  "id": 30,
-  "title": "Women's Sandals",
-  "description": "Comfortable daily wear sandals.",
-  "price": 999,
-  "category": "Fashion",
-  "thumbnail": "https://picsum.photos/400?random=30",
-  "images": [
-    "https://picsum.photos/400?random=30"
-  ],
-  "rating": 4.5,
-  "stock": 26
-},
-{
-  "id": 31,
-  "title": "Basmati Rice (5kg)",
-  "description": "Premium long grain basmati rice.",
-  "price": 699,
-  "category": "Groceries",
-  "thumbnail": "https://picsum.photos/400?random=31",
-  "images": [
-    "https://picsum.photos/400?random=31"
-  ],
-  "rating": 4.8,
-  "stock": 50
-},
-{
-  "id": 32,
-  "title": "Wheat Flour (10kg)",
-  "description": "Fresh whole wheat flour.",
-  "price": 549,
-  "category": "Groceries",
-  "thumbnail": "https://picsum.photos/400?random=32",
-  "images": [
-    "https://picsum.photos/400?random=32"
-  ],
-  "rating": 4.7,
-  "stock": 45
-},
-{
-  "id": 33,
-  "title": "Sunflower Oil (1L)",
-  "description": "Refined sunflower cooking oil.",
-  "price": 179,
-  "category": "Groceries",
-  "thumbnail": "https://picsum.photos/400?random=33",
-  "images": [
-    "https://picsum.photos/400?random=33"
-  ],
-  "rating": 4.6,
-  "stock": 60
-},
-{
-  "id": 34,
-  "title": "Sugar (1kg)",
-  "description": "Refined white sugar.",
-  "price": 55,
-  "category": "Groceries",
-  "thumbnail": "https://picsum.photos/400?random=34",
-  "images": [
-    "https://picsum.photos/400?random=34"
-  ],
-  "rating": 4.5,
-  "stock": 80
-},
-{
-  "id": 35,
-  "title": "Toor Dal (1kg)",
-  "description": "High-quality split pigeon peas.",
-  "price": 199,
-  "category": "Groceries",
-  "thumbnail": "https://picsum.photos/400?random=35",
-  "images": [
-    "https://picsum.photos/400?random=35"
-  ],
-  "rating": 4.7,
-  "stock": 55
-},
-{
-  "id": 36,
-  "title": "Salt (1kg)",
-  "description": "Iodized table salt.",
-  "price": 25,
-  "category": "Groceries",
-  "thumbnail": "https://picsum.photos/400?random=36",
-  "images": [
-    "https://picsum.photos/400?random=36"
-  ],
-  "rating": 4.4,
-  "stock": 100
-},
-{
-  "id": 37,
-  "title": "Tea Powder (500g)",
-  "description": "Premium strong tea leaves.",
-  "price": 249,
-  "category": "Groceries",
-  "thumbnail": "https://picsum.photos/400?random=37",
-  "images": [
-    "https://picsum.photos/400?random=37"
-  ],
-  "rating": 4.8,
-  "stock": 35
-},
-{
-  "id": 38,
-  "title": "Instant Coffee (200g)",
-  "description": "Rich aroma instant coffee.",
-  "price": 349,
-  "category": "Groceries",
-  "thumbnail": "https://picsum.photos/400?random=38",
-  "images": [
-    "https://picsum.photos/400?random=38"
-  ],
-  "rating": 4.6,
-  "stock": 30
-},
-{
-  "id": 39,
-  "title": "Mixed Dry Fruits (500g)",
-  "description": "Healthy mix of almonds, cashews and raisins.",
-  "price": 899,
-  "category": "Groceries",
-  "thumbnail": "https://picsum.photos/400?random=39",
-  "images": [
-    "https://picsum.photos/400?random=39"
-  ],
-  "rating": 4.9,
-  "stock": 25
-},
-{
-  "id": 40,
-  "title": "Biscuits Family Pack",
-  "description": "Crunchy assorted biscuits.",
-  "price": 149,
-  "category": "Groceries",
-  "thumbnail": "https://picsum.photos/400?random=40",
-  "images": [
-    "https://picsum.photos/400?random=40"
-  ],
-  "rating": 4.5,
-  "stock": 70
-},
-{
-  "id": 41,
-  "title": "Samsung Galaxy S24",
-  "description": "6.2-inch AMOLED display with 256GB storage.",
-  "price": 74999,
-  "category": "Mobiles",
-  "thumbnail": "https://picsum.photos/400?random=41",
-  "images": [
-    "https://picsum.photos/400?random=41"
-  ],
-  "rating": 4.8,
-  "stock": 15
-},
-{
-  "id": 42,
-  "title": "Apple iPhone 16",
-  "description": "128GB storage with A18 chip.",
-  "price": 79999,
-  "category": "Mobiles",
-  "thumbnail": "https://picsum.photos/400?random=42",
-  "images": [
-    "https://picsum.photos/400?random=42"
-  ],
-  "rating": 4.9,
-  "stock": 12
-},
-{
-  "id": 43,
-  "title": "OnePlus 13",
-  "description": "Snapdragon flagship performance with fast charging.",
-  "price": 69999,
-  "category": "Mobiles",
-  "thumbnail": "https://picsum.photos/400?random=43",
-  "images": [
-    "https://picsum.photos/400?random=43"
-  ],
-  "rating": 4.8,
-  "stock": 18
-},
-{
-  "id": 44,
-  "title": "Xiaomi Redmi Note 14",
-  "description": "Affordable smartphone with AMOLED display.",
-  "price": 19999,
-  "category": "Mobiles",
-  "thumbnail": "https://picsum.photos/400?random=44",
-  "images": [
-    "https://picsum.photos/400?random=44"
-  ],
-  "rating": 4.6,
-  "stock": 25
-},
-{
-  "id": 45,
-  "title": "Realme GT 7",
-  "description": "High-performance gaming smartphone.",
-  "price": 34999,
-  "category": "Mobiles",
-  "thumbnail": "https://picsum.photos/400?random=45",
-  "images": [
-    "https://picsum.photos/400?random=45"
-  ],
-  "rating": 4.7,
-  "stock": 20
-},
-{
-  "id": 46,
-  "title": "Google Pixel 9",
-  "description": "Excellent camera and clean Android experience.",
-  "price": 69999,
-  "category": "Mobiles",
-  "thumbnail": "https://picsum.photos/400?random=46",
-  "images": [
-    "https://picsum.photos/400?random=46"
-  ],
-  "rating": 4.8,
-  "stock": 14
-},
-{
-  "id": 47,
-  "title": "Motorola Edge 60",
-  "description": "Curved display with powerful processor.",
-  "price": 29999,
-  "category": "Mobiles",
-  "thumbnail": "https://picsum.photos/400?random=47",
-  "images": [
-    "https://picsum.photos/400?random=47"
-  ],
-  "rating": 4.5,
-  "stock": 22
-},
-{
-  "id": 48,
-  "title": "Vivo V50",
-  "description": "Slim design with excellent portrait camera.",
-  "price": 32999,
-  "category": "Mobiles",
-  "thumbnail": "https://picsum.photos/400?random=48",
-  "images": [
-    "https://picsum.photos/400?random=48"
-  ],
-  "rating": 4.6,
-  "stock": 20
-},
-{
-  "id": 49,
-  "title": "OPPO Reno 14",
-  "description": "AI-powered camera and fast charging.",
-  "price": 37999,
-  "category": "Mobiles",
-  "thumbnail": "https://picsum.photos/400?random=49",
-  "images": [
-    "https://picsum.photos/400?random=49"
-  ],
-  "rating": 4.6,
-  "stock": 16
-},
-{
-  "id": 50,
-  "title": "Nothing Phone (3)",
-  "description": "Unique transparent design with Glyph interface.",
-  "price": 49999,
-  "category": "Mobiles",
-  "thumbnail": "https://picsum.photos/400?random=50",
-  "images": [
-    "https://picsum.photos/400?random=50"
-  ],
-  "rating": 4.7,
-  "stock": 18
-},
-{
-  "id": 51,
-  "title": "Double Door Refrigerator",
-  "description": "260L frost-free refrigerator with inverter technology.",
-  "price": 28999,
-  "category": "Appliances",
-  "thumbnail": "https://picsum.photos/400?random=51",
-  "images": [
-    "https://picsum.photos/400?random=51"
-  ],
-  "rating": 4.8,
-  "stock": 12
-},
-{
-  "id": 52,
-  "title": "Front Load Washing Machine",
-  "description": "7kg fully automatic front load washing machine.",
-  "price": 32999,
-  "category": "Appliances",
-  "thumbnail": "https://picsum.photos/400?random=52",
-  "images": [
-    "https://picsum.photos/400?random=52"
-  ],
-  "rating": 4.7,
-  "stock": 10
-},
-{
-  "id": 53,
-  "title": "Microwave Oven",
-  "description": "25L convection microwave oven.",
-  "price": 11999,
-  "category": "Appliances",
-  "thumbnail": "https://picsum.photos/400?random=53",
-  "images": [
-    "https://picsum.photos/400?random=53"
-  ],
-  "rating": 4.6,
-  "stock": 18
-},
-{
-  "id": 54,
-  "title": "Air Conditioner",
-  "description": "1.5 Ton inverter split AC.",
-  "price": 38999,
-  "category": "Appliances",
-  "thumbnail": "https://picsum.photos/400?random=54",
-  "images": [
-    "https://picsum.photos/400?random=54"
-  ],
-  "rating": 4.8,
-  "stock": 8
-},
-{
-  "id": 55,
-  "title": "Electric Kettle",
-  "description": "1.8L stainless steel electric kettle.",
-  "price": 1499,
-  "category": "Appliances",
-  "thumbnail": "https://picsum.photos/400?random=55",
-  "images": [
-    "https://picsum.photos/400?random=55"
-  ],
-  "rating": 4.5,
-  "stock": 30
-},
-{
-  "id": 56,
-  "title": "Mixer Grinder",
-  "description": "750W mixer grinder with 3 jars.",
-  "price": 3999,
-  "category": "Appliances",
-  "thumbnail": "https://picsum.photos/400?random=56",
-  "images": [
-    "https://picsum.photos/400?random=56"
-  ],
-  "rating": 4.6,
-  "stock": 22
-},
-{
-  "id": 57,
-  "title": "Air Fryer",
-  "description": "5L digital air fryer for healthy cooking.",
-  "price": 6999,
-  "category": "Appliances",
-  "thumbnail": "https://picsum.photos/400?random=57",
-  "images": [
-    "https://picsum.photos/400?random=57"
-  ],
-  "rating": 4.7,
-  "stock": 16
-},
-{
-  "id": 58,
-  "title": "Vacuum Cleaner",
-  "description": "Bagless vacuum cleaner with powerful suction.",
-  "price": 5999,
-  "category": "Appliances",
-  "thumbnail": "https://picsum.photos/400?random=58",
-  "images": [
-    "https://picsum.photos/400?random=58"
-  ],
-  "rating": 4.5,
-  "stock": 20
-},
-{
-  "id": 59,
-  "title": "Induction Cooktop",
-  "description": "2000W induction cooktop with touch controls.",
-  "price": 2999,
-  "category": "Appliances",
-  "thumbnail": "https://picsum.photos/400?random=59",
-  "images": [
-    "https://picsum.photos/400?random=59"
-  ],
-  "rating": 4.6,
-  "stock": 25
-},
-{
-  "id": 60,
-  "title": "Ceiling Fan",
-  "description": "Energy-efficient 1200mm ceiling fan.",
-  "price": 2499,
-  "category": "Appliances",
-  "thumbnail": "https://picsum.photos/400?random=60",
-  "images": [
-    "https://picsum.photos/400?random=60"
-  ],
-  "rating": 4.4,
-  "stock": 35
-},
-{
-  "id": 61,
-  "title": "Apple MacBook Air M4",
-  "description": "13-inch laptop with Apple M4 chip and 16GB RAM.",
-  "price": 114999,
-  "category": "Tech",
-  "thumbnail": "https://picsum.photos/400?random=61",
-  "images": [
-    "https://picsum.photos/400?random=61"
-  ],
-  "rating": 4.9,
-  "stock": 8
-},
-{
-  "id": 62,
-  "title": "Dell Inspiron 15",
-  "description": "15.6-inch laptop with Intel Core i5 processor.",
-  "price": 62999,
-  "category": "Tech",
-  "thumbnail": "https://picsum.photos/400?random=62",
-  "images": [
-    "https://picsum.photos/400?random=62"
-  ],
-  "rating": 4.7,
-  "stock": 12
-},
-{
-  "id": 63,
-  "title": "Wireless Bluetooth Headphones",
-  "description": "Over-ear headphones with active noise cancellation.",
-  "price": 5999,
-  "category": "Tech",
-  "thumbnail": "https://picsum.photos/400?random=63",
-  "images": [
-    "https://picsum.photos/400?random=63"
-  ],
-  "rating": 4.8,
-  "stock": 30
-},
-{
-  "id": 64,
-  "title": "Mechanical Keyboard",
-  "description": "RGB mechanical gaming keyboard.",
-  "price": 3499,
-  "category": "Tech",
-  "thumbnail": "https://picsum.photos/400?random=64",
-  "images": [
-    "https://picsum.photos/400?random=64"
-  ],
-  "rating": 4.7,
-  "stock": 20
-},
-{
-  "id": 65,
-  "title": "Wireless Mouse",
-  "description": "Ergonomic Bluetooth wireless mouse.",
-  "price": 1499,
-  "category": "Tech",
-  "thumbnail": "https://picsum.photos/400?random=65",
-  "images": [
-    "https://picsum.photos/400?random=65"
-  ],
-  "rating": 4.6,
-  "stock": 40
-},
-{
-  "id": 66,
-  "title": "27-inch Monitor",
-  "description": "Full HD IPS monitor with ultra-thin bezels.",
-  "price": 14999,
-  "category": "Tech",
-  "thumbnail": "https://picsum.photos/400?random=66",
-  "images": [
-    "https://picsum.photos/400?random=66"
-  ],
-  "rating": 4.7,
-  "stock": 15
-},
-{
-  "id": 67,
-  "title": "Smart Watch",
-  "description": "Fitness tracking smartwatch with AMOLED display.",
-  "price": 7999,
-  "category": "Tech",
-  "thumbnail": "https://picsum.photos/400?random=67",
-  "images": [
-    "https://picsum.photos/400?random=67"
-  ],
-  "rating": 4.8,
-  "stock": 25
-},
-{
-  "id": 68,
-  "title": "Portable SSD 1TB",
-  "description": "High-speed USB-C external SSD.",
-  "price": 8999,
-  "category": "Tech",
-  "thumbnail": "https://picsum.photos/400?random=68",
-  "images": [
-    "https://picsum.photos/400?random=68"
-  ],
-  "rating": 4.9,
-  "stock": 18
-},
-{
-  "id": 69,
-  "title": "Gaming Controller",
-  "description": "Wireless controller compatible with PC and Android.",
-  "price": 2999,
-  "category": "Tech",
-  "thumbnail": "https://picsum.photos/400?random=69",
-  "images": [
-    "https://picsum.photos/400?random=69"
-  ],
-  "rating": 4.6,
-  "stock": 22
-},
-{
-  "id": 70,
-  "title": "USB-C Hub",
-  "description": "7-in-1 USB-C hub with HDMI and USB 3.0 ports.",
-  "price": 2499,
-  "category": "Tech",
-  "thumbnail": "https://picsum.photos/400?random=70",
-  "images": [
-    "https://picsum.photos/400?random=70"
-  ],
-  "rating": 4.5,
-  "stock": 35
-}
-  ]
-}
+   
+  {
+    "id": 1,
+    "title": "Modern Wooden Sofa",
+    "description": "Comfortable 3-seater wooden sofa with premium cushions.",
+    "price": 24999,
+    "category": "Furniture",
+    "thumbnail": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 2,
+    "title": "Office Chair",
+    "description": "Ergonomic office chair with adjustable height.",
+    "price": 8999,
+    "category": "Furniture",
+    "thumbnail": "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "title": "Dining Table",
+    "description": "6-seater wooden dining table.",
+    "price": 18999,
+    "category": "Furniture",
+    "thumbnail": "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg"
+    ],
+    "rating": 4.4
+  },
+  {
+    "id": 4,
+    "title": "Queen Bed",
+    "description": "Solid wood queen size bed.",
+    "price": 29999,
+    "category": "Furniture",
+    "thumbnail": "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg"
+    ],
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "title": "Coffee Table",
+    "description": "Modern center coffee table.",
+    "price": 4999,
+    "category": "Furniture",
+    "thumbnail": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg"
+    ],
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "title": "Wardrobe",
+    "description": "3-door wooden wardrobe with spacious shelves.",
+    "price": 22999,
+    "category": "Furniture",
+    "thumbnail": "https://images.pexels.com/photos/6585750/pexels-photo-6585750.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/6585750/pexels-photo-6585750.jpeg"
+    ],
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "title": "TV Unit",
+    "description": "Wooden TV cabinet with storage compartments.",
+    "price": 11999,
+    "category": "Furniture",
+    "thumbnail": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 8,
+    "title": "Bookshelf",
+    "description": "5-tier wooden bookshelf for books and decor.",
+    "price": 7999,
+    "category": "Furniture",
+    "thumbnail": "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg"
+    ],
+    "rating": 4.2
+  },
+  {
+    "id": 9,
+    "title": "Study Table",
+    "description": "Compact study table with storage drawer.",
+    "price": 6999,
+    "category": "Furniture",
+    "thumbnail": "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg"
+    ],
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "title": "Recliner Chair",
+    "description": "Luxury recliner chair with adjustable footrest.",
+    "price": 17999,
+    "category": "Furniture",
+    "thumbnail": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg",
+    "images": [
+      "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg"
+    ],
+    "rating": 4.8
+  },
 
+   
+  {
+    "id": 11,
+    "title": "Essence Mascara Lash Princess",
+    "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+    "price": 9.99,
+    "category": "Beauty",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
+    ],
+    "rating": 2.56,
+    "stock": 99
+  },
+  {
+    "id": 12,
+    "title": "Eyeshadow Palette with Mirror",
+    "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+    "price": 19.99,
+    "category": "Beauty",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp"
+    ],
+    "rating": 2.86,
+    "stock": 34
+  },
+  {
+    "id": 13,
+    "title": "Powder Canister",
+    "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+    "price": 14.99,
+    "category": "Beauty",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp"
+    ],
+    "rating": 4.64,
+    "stock": 89
+  },
+  {
+    "id": 14,
+    "title": "Red Lipstick",
+    "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+    "price": 12.99,
+    "category": "Beauty",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp"
+    ],
+    "rating": 4.36,
+    "stock": 91
+  },
+  {
+    "id": 15,
+    "title": "Red Nail Polish",
+    "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+    "price": 8.99,
+    "category": "Beauty",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp"
+    ],
+    "rating": 4.32,
+    "stock": 79
+  },
+  {
+    "id": 16,
+    "title": "Calvin Klein CK One",
+    "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+    "price": 49.99,
+    "category": "Beauty",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp"
+    ],
+    "rating": 4.37,
+    "stock": 29
+  },
+  {
+    "id": 17,
+    "title": "Chanel Coco Noir Eau De",
+    "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+    "price": 129.99,
+    "category": "Beauty",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp"
+    ],
+    "rating": 4.26,
+    "stock": 58
+  },
+  {
+    "id": 18,
+    "title": "Dior J'adore",
+    "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+    "price": 89.99,
+    "category": "Beauty",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp"
+    ],
+    "rating": 3.8,
+    "stock": 98
+  },
+  {
+    "id": 19,
+    "title": "Dolce Shine Eau de",
+    "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+    "price": 69.99,
+    "category": "Beauty",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp"
+    ],
+    "rating": 3.96,
+    "stock": 4
+  },
+  {
+    "id": 20,
+    "title": "Gucci Bloom Eau de",
+    "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+    "price": 79.99,
+    "category": "Beauty",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp"
+    ],
+    "rating": 2.74,
+    "stock": 91
+  }
+,
 
+  {
+    "id": 21,
+    "title": "Blue & Black Check Shirt",
+    "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+    "price": 29.99,
+    "category": "Fashion",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
+    ],
+    "rating": 3.64,
+    "stock": 38
+  },
+  {
+    "id": 22,
+    "title": "Gigabyte Aorus Men Tshirt",
+    "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+    "price": 24.99,
+    "category": "Fashion",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp"
+    ],
+    "rating": 3.18,
+    "stock": 90
+  },
+  {
+    "id": 23,
+    "title": "Man Plaid Shirt",
+    "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+    "price": 34.99,
+    "category": "Fashion",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp"
+    ],
+    "rating": 3.46,
+    "stock": 82
+  },
+  {
+    "id": 24,
+    "title": "Man Short Sleeve Shirt",
+    "description": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
+    "price": 19.99,
+    "category": "Fashion",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp"
+    ],
+    "rating": 2.9,
+    "stock": 2
+  },
+  {
+    "id": 25,
+    "title": "Men Check Shirt",
+    "description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+    "price": 27.99,
+    "category": "Fashion",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp"
+    ],
+    "rating": 2.72,
+    "stock": 95
+  },
+  {
+    "id": 26,
+    "title": "Nike Air Jordan 1 Red And Black",
+    "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+    "price": 149.99,
+    "category": "Fashion",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp"
+    ],
+    "rating": 4.77,
+    "stock": 7
+  },
+  {
+    "id": 27,
+    "title": "Nike Baseball Cleats",
+    "description": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
+    "price": 79.99,
+    "category": "Fashion",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp"
+    ],
+    "rating": 3.88,
+    "stock": 12
+  },
+  {
+    "id": 28,
+    "title": "Puma Future Rider Trainers",
+    "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+    "price": 89.99,
+    "category": "Fashion",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp"
+    ],
+    "rating": 4.9,
+    "stock": 90
+  },
+  {
+    "id": 29,
+    "title": "Sports Sneakers Off White & Red",
+    "description": "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
+    "price": 119.99,
+    "category": "Fashion",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp"
+    ],
+    "rating": 4.77,
+    "stock": 17
+  },
+  {
+    "id": 30,
+    "title": "Sports Sneakers Off White Red",
+    "description": "Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
+    "price": 109.99,
+    "category": "Fashion",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp"
+    ],
+    "rating": 4.69,
+    "stock": 62
+  }
+,
 
+  {
+    "id": 31,
+    "title": "Apple",
+    "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
+    "price": 1.99,
+    "category": "Groceries",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+    ],
+    "rating": 4.19,
+    "stock": 8
+  },
+  {
+    "id": 32,
+    "title": "Beef Steak",
+    "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
+    "price": 12.99,
+    "category": "Groceries",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp"
+    ],
+    "rating": 4.47,
+    "stock": 86
+  },
+  {
+    "id": 33,
+    "title": "Cat Food",
+    "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
+    "price": 8.99,
+    "category": "Groceries",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp"
+    ],
+    "rating": 3.13,
+    "stock": 46
+  },
+  {
+    "id": 34,
+    "title": "Chicken Meat",
+    "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
+    "price": 9.99,
+    "category": "Groceries",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    ],
+    "rating": 3.19,
+    "stock": 97
+  },
+  {
+    "id": 35,
+    "title": "Cooking Oil",
+    "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
+    "price": 4.99,
+    "category": "Groceries",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp"
+    ],
+    "rating": 4.8,
+    "stock": 10
+  },
+  {
+    "id": 36,
+    "title": "Cucumber",
+    "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+    "price": 1.49,
+    "category": "Groceries",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp"
+    ],
+    "rating": 4.07,
+    "stock": 84
+  },
+  {
+    "id": 37,
+    "title": "Dog Food",
+    "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+    "price": 10.99,
+    "category": "Groceries",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp"
+    ],
+    "rating": 4.55,
+    "stock": 71
+  },
+  {
+    "id": 38,
+    "title": "Eggs",
+    "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+    "price": 2.99,
+    "category": "Groceries",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp"
+    ],
+    "rating": 2.53,
+    "stock": 9
+  },
+  {
+    "id": 39,
+    "title": "Fish Steak",
+    "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+    "price": 14.99,
+    "category": "Groceries",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp"
+    ],
+    "rating": 3.78,
+    "stock": 74
+  },
+  {
+    "id": 40,
+    "title": "Green Bell Pepper",
+    "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+    "price": 1.29,
+    "category": "Groceries",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp"
+    ],
+    "rating": 3.25,
+    "stock": 33
+  }
+,
+
+ 
+  {
+    "id": 41,
+    "title": "Generic Motorcycle",
+    "description": "The Generic Motorcycle is a versatile and reliable bike suitable for various riding preferences. With a balanced design, it provides a comfortable and efficient riding experience.",
+    "price": 3999.99,
+    "category": "Automotive",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp"
+    ],
+    "rating": 4.91,
+    "stock": 34
+  },
+  {
+    "id": 42,
+    "title": "Kawasaki Z800",
+    "description": "The Kawasaki Z800 is a powerful and agile sportbike known for its striking design and performance. It's equipped with advanced features, making it a favorite among motorcycle enthusiasts.",
+    "price": 8999.99,
+    "category": "Automotive",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/thumbnail.webp"
+    ],
+    "rating": 3.98,
+    "stock": 52
+  },
+  {
+    "id": 43,
+    "title": "MotoGP CI.H1",
+    "description": "The MotoGP CI.H1 is a high-performance motorcycle inspired by MotoGP racing technology. It offers cutting-edge features and precision engineering for an exhilarating riding experience.",
+    "price": 14999.99,
+    "category": "Automotive",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/thumbnail.webp"
+    ],
+    "rating": 2.97,
+    "stock": 10
+  },
+  {
+    "id": 44,
+    "title": "Scooter Motorcycle",
+    "description": "The Scooter Motorcycle is a practical and fuel-efficient bike ideal for urban commuting. It features a step-through design and user-friendly controls for easy maneuverability.",
+    "price": 2999.99,
+    "category": "Automotive",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/thumbnail.webp"
+    ],
+    "rating": 2.53,
+    "stock": 84
+  },
+  {
+    "id": 45,
+    "title": "Sportbike Motorcycle",
+    "description": "The Sportbike Motorcycle is designed for speed and agility, with a sleek and aerodynamic profile. It's suitable for riders looking for a dynamic and thrilling riding experience.",
+    "price": 7499.99,
+    "category": "Automotive",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/thumbnail.webp"
+    ],
+    "rating": 3.94,
+    "stock": 0
+  }
+,
+
+  {
+    "id": 51,
+    "title": "American Football",
+    "description": "The American Football is a classic ball used in American football games. It is designed for throwing and catching, making it an essential piece of equipment for the sport.",
+    "price": 19.99,
+    "category": "Sports",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp"
+    ],
+    "rating": 4.91,
+    "stock": 53
+  },
+  {
+    "id": 52,
+    "title": "Baseball Ball",
+    "description": "The Baseball Ball is a standard baseball used in baseball games. It features a durable leather cover and is designed for pitching, hitting, and fielding in the game of baseball.",
+    "price": 8.99,
+    "category": "Sports",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp"
+    ],
+    "rating": 2.57,
+    "stock": 100
+  },
+  {
+    "id": 53,
+    "title": "Baseball Glove",
+    "description": "The Baseball Glove is a protective glove worn by baseball players. It is designed to catch and field the baseball, providing players with comfort and control during the game.",
+    "price": 24.99,
+    "category": "Sports",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp"
+    ],
+    "rating": 3.96,
+    "stock": 22
+  },
+  {
+    "id": 54,
+    "title": "Basketball",
+    "description": "The Basketball is a standard ball used in basketball games. It is designed for dribbling, shooting, and passing in the game of basketball, suitable for both indoor and outdoor play.",
+    "price": 14.99,
+    "category": "Sports",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp"
+    ],
+    "rating": 4.66,
+    "stock": 75
+  },
+  {
+    "id": 55,
+    "title": "Basketball Rim",
+    "description": "The Basketball Rim is a sturdy hoop and net assembly mounted on a basketball backboard. It provides a target for shooting and scoring in the game of basketball.",
+    "price": 39.99,
+    "category": "Sports",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp"
+    ],
+    "rating": 4.60,
+    "stock": 43
+  },
+  {
+    "id": 56,
+    "title": "Cricket Ball",
+    "description": "The Cricket Ball is a hard leather ball used in the sport of cricket. It is bowled and batted in the game, and its hardness and seam contribute to the dynamics of cricket play.",
+    "price": 12.99,
+    "category": "Sports",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp"
+    ],
+    "rating": 3.53,
+    "stock": 30
+  },
+  {
+    "id": 57,
+    "title": "Cricket Bat",
+    "description": "The Cricket Bat is an essential piece of cricket equipment used by batsmen to hit the cricket ball. It is made of wood and comes in various sizes and designs.",
+    "price": 29.99,
+    "category": "Sports",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp"
+    ],
+    "rating": 3.17,
+    "stock": 98
+  },
+  {
+    "id": 58,
+    "title": "Cricket Helmet",
+    "description": "The Cricket Helmet is a protective headgear worn by cricket players, especially batsmen and wicketkeepers. It provides protection against fast bowling and bouncers.",
+    "price": 44.99,
+    "category": "Sports",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp"
+    ],
+    "rating": 4.69,
+    "stock": 10
+  }
+,
+
+  {
+    "id": 61,
+    "title": "Apple MacBook Pro 14 Inch Space Grey",
+    "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+    "price": 1999.99,
+    "category": "Tech",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp"
+    ],
+    "rating": 3.65,
+    "stock": 24
+  },
+  {
+    "id": 62,
+    "title": "Asus Zenbook Pro Dual Screen Laptop",
+    "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+    "price": 1799.99,
+    "category": "Tech",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp"
+    ],
+    "rating": 3.95,
+    "stock": 45
+  },
+  {
+    "id": 63,
+    "title": "Huawei Matebook X Pro",
+    "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+    "price": 1399.99,
+    "category": "Tech",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp"
+    ],
+    "rating": 4.98,
+    "stock": 75
+  },
+  {
+    "id": 64,
+    "title": "Lenovo Yoga 920",
+    "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+    "price": 1099.99,
+    "category": "Tech",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp"
+    ],
+    "rating": 2.86,
+    "stock": 40
+  },
+  {
+    "id": 65,
+    "title": "New DELL XPS 13 9300 Laptop",
+    "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+    "price": 1499.99,
+    "category": "Tech",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
+    ],
+    "rating": 2.67,
+    "stock": 74
+  },
+  {
+    "id": 66,
+    "title": "Amazon Echo Plus",
+    "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+    "price": 99.99,
+    "category": "Tech",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp"
+    ],
+    "rating": 4.99,
+    "stock": 61
+  },
+  {
+    "id": 67,
+    "title": "Apple Airpods",
+    "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+    "price": 129.99,
+    "category": "Tech",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp"
+    ],
+    "rating": 4.15,
+    "stock": 67
+  },
+  {
+    "id": 68,
+    "title": "Apple AirPods Max Silver",
+    "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+    "price": 549.99,
+    "category": "Tech",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp"
+    ],
+    "rating": 3.47,
+    "stock": 59
+  },
+  {
+    "id": 69,
+    "title": "Apple Watch Series 4 Gold",
+    "description": "The Apple Watch Series 4 in Gold is a stylish and advanced smartwatch with features like heart rate monitoring, fitness tracking, and a beautiful Retina display.",
+    "price": 349.99,
+    "category": "Tech",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp"
+    ],
+    "rating": 2.74,
+    "stock": 33
+  },
+  {
+    "id": 70,
+    "title": "Beats Flex Wireless Earphones",
+    "description": "The Beats Flex Wireless Earphones offer a comfortable and versatile audio experience. With magnetic earbuds and up to 12 hours of battery life, they are ideal for everyday use.",
+    "price": 49.99,
+    "category": "Tech",
+    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
+    "images": [
+      "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp"
+    ],
+    "rating": 4.24,
+    "stock": 50
+  }
+  ]}

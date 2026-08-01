@@ -1,19 +1,14 @@
 import React, { useEffect, useState } from "react";
-import {
-  SafeAreaView,
-  View,
-  Text,
-  StyleSheet,
-  Image,
-  TouchableOpacity,
-  ScrollView,
-  ActivityIndicator,
-} from "react-native";
+import {SafeAreaView,View,Text,StyleSheet,Image,TouchableOpacity,ScrollView,ActivityIndicator,Alert} from "react-native";
 import { RouteProp, useRoute } from "@react-navigation/native";
 import { Ionicons } from "@expo/vector-icons";
 import { CategoriesStackParamList } from "../types/navigation";
 import { useCart } from "../context/CartContext";
 import AppHeader from "../components/AppHeader";
+import { BASE_URL } from "../config/api";
+import { Product } from "../types/product";
+import { Colors } from "../constants/colors";
+
 
 type ProductDetailsRouteProp = RouteProp<
   CategoriesStackParamList,
@@ -29,37 +24,45 @@ export default function ProductDetailsScreen({ navigation }: any) {
   const { productId } = route.params;
   const { addToCart } = useCart();
 
-  const [product, setProduct] = useState<any>(null);
+const [product, setProduct] = useState<Product | null>(null);
   const [loading, setLoading] = useState(true);
 
   
 
-  const loadProduct = async () => {
-    try {
-     const response = await fetch(
-  `http://localhost:3000/products/${productId}`
-);
+const loadProduct = async () => {
+  try {
+    setLoading(true);
 
-useEffect(() => {
-  console.log("ProductDetailsScreen");
-  loadProduct();
-}, []);
-const data = await response.json();
-setProduct(data);
-    } catch (error) {
-      console.log(error);
-    } finally {
-      setLoading(false);
+    const response = await fetch(`${BASE_URL}/products/${productId}`);
+
+    if (!response.ok) {
+      throw new Error(`HTTP Error: ${response.status}`);
     }
-  };
+
+    const data = await response.json();
+    setProduct(data);
+  } catch (error) {
+    console.error("Error loading product:", error);
+  } finally {
+    setLoading(false);
+  }
+};
 
   if (loading) {
-    return (
-      <View style={styles.loader}>
-        <ActivityIndicator size="large" color="#4D6F75" />
-      </View>
-    );
-  }
+  return (
+    <View style={styles.loader}>
+      <ActivityIndicator size="large" color="#4D6F75" />
+    </View>
+  );
+}
+
+if (!product) {
+  return (
+    <View style={styles.loader}>
+      <Text>Product not found.</Text>
+    </View>
+  );
+}
 
   return (
     <SafeAreaView style={styles.container}>
@@ -120,7 +123,22 @@ setProduct(data);
 
           <TouchableOpacity
             style={styles.button}
-            onPress={() => addToCart(product)}
+           onPress={() => {
+  try {
+    addToCart(product);
+
+    Alert.alert(
+      "Success",
+      "Item added to cart successfully!"
+    );
+  } catch (error) {
+    Alert.alert(
+      "Error",
+      "Failed to add item to cart."
+    );
+    console.error(error);
+  }
+}}
           >
             <Text style={styles.buttonText}>
               Add To Cart
@@ -135,7 +153,7 @@ setProduct(data);
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#F8FCFC",
+    backgroundColor: Colors.background,
   },
 
   loader: {
@@ -145,7 +163,7 @@ const styles = StyleSheet.create({
   },
 
   titleBar: {
-    backgroundColor: "#EEF5F6",
+    backgroundColor: Colors.secondary,
     paddingVertical: 12,
     paddingHorizontal: 16,
   },
@@ -153,7 +171,7 @@ const styles = StyleSheet.create({
   pageTitle: {
     fontSize: 28,
     fontWeight: "700",
-    color: "#4D6F75",
+    color: Colors.primary,
   },
 
   backButton: {
@@ -175,7 +193,7 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 24,
     fontWeight: "700",
-    color: "#222",
+    color: Colors.text,
     marginTop: 10,
   },
 
@@ -189,17 +207,18 @@ const styles = StyleSheet.create({
     marginLeft: 5,
     fontWeight: "600",
     fontSize: 16,
+    color: Colors.text,
   },
 
   stock: {
     marginLeft: 10,
-    color: "#888",
+    color: Colors.gray,
     fontSize: 14,
   },
 
   price: {
     fontSize: 30,
-    color: "#4D6F75",
+    color: Colors.primary,
     fontWeight: "bold",
     marginTop: 15,
   },
@@ -208,18 +227,18 @@ const styles = StyleSheet.create({
     marginTop: 25,
     fontSize: 18,
     fontWeight: "700",
-    color: "#222",
+    color: Colors.text,
   },
 
   description: {
     marginTop: 10,
-    color: "#666",
+    color: Colors.gray,
     lineHeight: 24,
     fontSize: 15,
   },
 
   button: {
-    backgroundColor: "#4D6F75",
+    backgroundColor: Colors.primary,
     marginTop: 30,
     paddingVertical: 16,
     borderRadius: 10,
@@ -227,7 +246,7 @@ const styles = StyleSheet.create({
   },
 
   buttonText: {
-    color: "#fff",
+    color: Colors.white,
     fontWeight: "700",
     fontSize: 18,
   },

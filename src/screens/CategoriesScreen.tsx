@@ -3,6 +3,8 @@ import {SafeAreaView,View,Text,StyleSheet,FlatList,TouchableOpacity,Image,} from
 import { useNavigation } from "@react-navigation/native";
 import AppHeader from "../components/AppHeader";
 import { useEffect } from "react";
+import { Colors } from "../constants/colors";
+
 
 const categories = [
   {
@@ -13,15 +15,15 @@ const categories = [
   },
   {
     id: "2",
-    title: "Mobiles",
-    image: require("../../assets/images/mobile.png"),
-    apiCategory: "Mobiles",
+    title: "Automotive",
+    image: require("../../assets/images/automotive.png"),
+    apiCategory: "Automotive",
   },
   {
     id: "3",
-    title: "Appliances",
-    image: require("../../assets/images/applience.png"),
-    apiCategory: "Appliances",
+    title: "Sports",
+    image: require("../../assets/images/sports.png"),
+    apiCategory: "Sports",
   },
   {
     id: "4",
@@ -101,11 +103,11 @@ useEffect(() => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#F8FCFC",
+    backgroundColor: Colors.background,
   },
 
   titleContainer: {
-    backgroundColor: "#EEF6F7",
+    backgroundColor: Colors.secondary,
     paddingVertical: 12,
     paddingHorizontal: 18,
   },
@@ -113,7 +115,7 @@ const styles = StyleSheet.create({
   heading: {
     fontSize: 30,
     fontWeight: "700",
-    color: "#4D6F75",
+    color: Colors.primary,
   },
 
   list: {
@@ -130,7 +132,7 @@ const styles = StyleSheet.create({
     width: "48%",
     borderRadius: 10,
     overflow: "hidden",
-    backgroundColor: "#fff",
+    backgroundColor: Colors.white,
     elevation: 3,
   },
 
@@ -138,14 +140,15 @@ const styles = StyleSheet.create({
     width: "100%",
     height: 190,
   },
-categoryName: {
-  fontSize: 17,
-  fontWeight: "600",
-  color: "#2F4F4F",
-  textAlign: "center",
-  paddingVertical: 10,
-  backgroundColor: "#F4F8F8",
-  borderTopWidth: 1,
-  borderTopColor: "#E5E5E5",
-},
+
+  categoryName: {
+    fontSize: 17,
+    fontWeight: "600",
+    color: Colors.text,
+    textAlign: "center",
+    paddingVertical: 10,
+    backgroundColor: Colors.background,
+    borderTopWidth: 1,
+    borderTopColor: Colors.border,
+  },
 });

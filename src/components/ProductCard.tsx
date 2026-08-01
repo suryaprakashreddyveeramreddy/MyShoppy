@@ -1,20 +1,16 @@
 import React from "react";
-import {
-  View,
-  Text,
-  Image,
-  StyleSheet,
-  TouchableOpacity,
-} from "react-native";
+import {View,Text,Image,StyleSheet,TouchableOpacity,Alert,Platform} from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 import { useCart } from "../context/CartContext";
+import { Product } from "../types/product";
+import { Colors } from "../constants/colors";
 
 interface ProductCardProps {
-  product: any;
+  product: Product;
   onPress: () => void;
 }
 
-export default function ProductCard({
+function ProductCard({
   product,
   onPress,
 }: ProductCardProps) {
@@ -27,7 +23,7 @@ export default function ProductCard({
         <Ionicons
           name="heart-outline"
           size={22}
-          color="#666"
+          color={Colors.gray}
         />
       </TouchableOpacity>
 
@@ -47,7 +43,7 @@ export default function ProductCard({
         <Ionicons
           name="star"
           size={15}
-          color="#FFD700"
+          color={Colors.warning}
         />
 
         <Text style={styles.rating}>
@@ -71,33 +67,48 @@ export default function ProductCard({
 
       {/* Add To Cart Button */}
       <TouchableOpacity
-        style={styles.button}
-        onPress={() => addToCart(product)}
-      >
-        <Text style={styles.buttonText}>
-          Add To Cart
-        </Text>
-      </TouchableOpacity>
-    </TouchableOpacity>
-  );
+  style={styles.button}
+  onPress={() => {
+try {
+  addToCart(product);
+
+  if (Platform.OS === "web") {
+    window.alert(`${product.title} has been added to your cart.`);
+  } else {
+    Alert.alert(
+      "Added to Cart",
+      `${product.title} has been added to your cart.`
+    );
+  }
+} catch (error) {
+  console.error("Add To Cart Error:", error);
+
+  if (Platform.OS === "web") {
+    window.alert("Unable to add item to cart.");
+  } else {
+    Alert.alert("Error", "Unable to add item to cart.");
+  }
+}
+  }}
+>
+  <Text style={styles.buttonText}>
+    Add To Cart
+  </Text>
+</TouchableOpacity>
+</TouchableOpacity>
+
+);
 }
 
 const styles = StyleSheet.create({
   card: {
-    width: "48%",
-    backgroundColor: "#fff",
-    borderRadius: 15,
-    padding: 10,
-    marginBottom: 15,
-    elevation: 4,
-    shadowColor: "#000",
-    shadowOpacity: 0.15,
-    shadowRadius: 4,
-    shadowOffset: {
-      width: 0,
-      height: 2,
-    },
-  },
+  width: "48%",
+  backgroundColor: Colors.white,
+  borderRadius: 15,
+  padding: 10,
+  marginBottom: 15,
+  elevation: 4,
+},
 
   favorite: {
     position: "absolute",
@@ -116,7 +127,7 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 15,
     fontWeight: "700",
-    color: "#333",
+    color: Colors.text,
     marginBottom: 4,
   },
 
@@ -130,18 +141,18 @@ const styles = StyleSheet.create({
     marginLeft: 5,
     fontSize: 13,
     fontWeight: "600",
-    color: "#555",
+    color: Colors.gray,
   },
 
   stock: {
     marginLeft: 8,
-    color: "#888",
+    color: Colors.lightGray,
     fontSize: 12,
   },
 
   description: {
     fontSize: 12,
-    color: "#666",
+    color: Colors.gray,
     marginBottom: 8,
     minHeight: 34,
   },
@@ -149,20 +160,21 @@ const styles = StyleSheet.create({
   price: {
     fontSize: 22,
     fontWeight: "bold",
-    color: "#4D6F75",
+    color: Colors.primary,
     marginBottom: 10,
   },
 
   button: {
-    backgroundColor: "#4D6F75",
+    backgroundColor: Colors.primary,
     borderRadius: 8,
     paddingVertical: 10,
     alignItems: "center",
   },
 
   buttonText: {
-    color: "#fff",
+    color: Colors.white,
     fontWeight: "700",
     fontSize: 14,
   },
 });
+export default React.memo(ProductCard);

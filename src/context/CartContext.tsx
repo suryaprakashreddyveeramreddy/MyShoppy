@@ -1,11 +1,6 @@
-import React, {
-  createContext,
-  useContext,
-  useState,
-  useEffect,
-} from "react";
+import React, {createContext,useContext,useState,useEffect,} from "react";
 import AsyncStorage from "@react-native-async-storage/async-storage";
-
+import { Product } from "../types/product";
 export interface CartItem {
   id: number;
   title: string;
@@ -16,7 +11,7 @@ export interface CartItem {
 
 interface CartContextType {
   cart: CartItem[];
-  addToCart: (product: any) => void;
+  addToCart: (product: Product) => void;
   removeFromCart: (id: number) => void;
   increaseQuantity: (id: number) => void;
   decreaseQuantity: (id: number) => void;
@@ -71,7 +66,7 @@ export const CartProvider = ({
     }
   };
 
-  const addToCart = (product: any) => {
+  const addToCart = (product: Product) => {
     setCart((prev) => {
       const existing = prev.find(
         (item) => item.id === product.id

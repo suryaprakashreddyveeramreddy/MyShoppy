@@ -2,6 +2,7 @@ import React from "react";
 import { SafeAreaView, View, Image, StyleSheet } from "react-native";
 import AppHeader from "../components/AppHeader";
 import { useEffect } from "react";
+import { Colors } from "../constants/colors";
 
 
 export default function HomeScreen() {
@@ -29,7 +30,7 @@ export default function HomeScreen() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#F8FCFC",
+    backgroundColor: Colors.background,
   },
 
   imageContainer: {
@@ -46,6 +47,6 @@ const styles = StyleSheet.create({
 
   bottomSpace: {
     flex: 1.5,
-    backgroundColor: "#F8FCFC",
+    backgroundColor: Colors.background,
   },
 });
