@@ -8,6 +8,7 @@ import AppHeader from "../components/AppHeader";
 import { BASE_URL } from "../config/api";
 import { Product } from "../types/product";
 import { Colors } from "../constants/colors";
+import { Platform } from "react-native";
 
 
 type ProductDetailsRouteProp = RouteProp<
@@ -123,28 +124,37 @@ if (!product) {
           </Text>
 
           <TouchableOpacity
-            style={styles.button}
-           onPress={() => {
-  try {
-    addToCart(product);
+  style={styles.button}
+  onPress={() => {
+    try {
+      addToCart(product);
 
-    Alert.alert(
-      "Success",
-      "Item added to cart successfully!"
-    );
-  } catch (error) {
-    Alert.alert(
-      "Error",
-      "Failed to add item to cart."
-    );
-    console.error(error);
-  }
-}}
-          >
-            <Text style={styles.buttonText}>
-              Add To Cart
-            </Text>
-          </TouchableOpacity>
+      if (Platform.OS === "web") {
+        window.alert(`${product.title} has been added to your cart.`);
+      } else {
+        Alert.alert(
+          "Added to Cart",
+          `${product.title} has been added to your cart.`
+        );
+      }
+    } catch (error) {
+      console.error(error);
+
+      if (Platform.OS === "web") {
+        window.alert("Failed to add item to cart.");
+      } else {
+        Alert.alert(
+          "Error",
+          "Failed to add item to cart."
+        );
+      }
+    }
+  }}
+>
+  <Text style={styles.buttonText}>
+    Add To Cart
+  </Text>
+</TouchableOpacity>
         </View>
       </ScrollView>
     </SafeAreaView>

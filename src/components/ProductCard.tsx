@@ -32,6 +32,13 @@ function ProductCard({
   style={styles.image}
   resizeMode="contain"
 />
+{product.stock === 0 && (
+  <View style={styles.outOfStockBadge}>
+    <Text style={styles.outOfStockText}>
+      Out of Stock
+    </Text>
+  </View>
+)}
 
       {/* Product Title */}
       <Text style={styles.title} numberOfLines={2}>
@@ -176,5 +183,20 @@ const styles = StyleSheet.create({
     fontWeight: "700",
     fontSize: 14,
   },
+  outOfStockBadge: {
+  position: "absolute",
+  top: 10,
+  left: 10,
+  backgroundColor: "#E53935",
+  paddingHorizontal: 10,
+  paddingVertical: 5,
+  borderRadius: 8,
+},
+
+outOfStockText: {
+  color: "#fff",
+  fontWeight: "bold",
+  fontSize: 12,
+},
 });
 export default React.memo(ProductCard);

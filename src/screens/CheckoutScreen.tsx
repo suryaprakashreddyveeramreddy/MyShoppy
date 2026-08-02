@@ -15,6 +15,7 @@ import { useCart } from "../context/CartContext";
 import { Colors } from "../constants/colors";
 
 
+
 export default function CheckoutScreen() {
   useEffect(() => {
   console.log("OrderSuccessScreen");
@@ -33,6 +34,7 @@ export default function CheckoutScreen() {
   const [paymentMethod, setPaymentMethod] = useState("Cash on Delivery");
 
   const [successModal, setSuccessModal] = useState(false);
+  const [transactionId, setTransactionId] = useState("");
 
   const validate = () => {
     if (!fullName.trim()) {
@@ -79,6 +81,13 @@ export default function CheckoutScreen() {
   if (!validate()) return;
 
   try {
+    const txnId =
+      "MSP" +
+      Math.random().toString(36).substring(2, 8).toUpperCase() +
+      Date.now().toString().slice(-4);
+
+    setTransactionId(txnId);
+
     clearCart();
     setSuccessModal(true);
   } catch (error) {
@@ -229,9 +238,16 @@ export default function CheckoutScreen() {
               Order Placed!
             </Text>
 
-            <Text style={styles.successMessage}>
-              Your order has been placed successfully.
-            </Text>
+            <Text
+  style={{
+    fontSize: 16,
+    fontWeight: "700",
+    color: Colors.primary,
+    marginBottom: 20,
+  }}
+>
+  Transaction ID: {transactionId}
+</Text>
 
             <TouchableOpacity
               style={styles.successButton}

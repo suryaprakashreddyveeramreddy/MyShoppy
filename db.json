@@ -7,7 +7,7 @@
     "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
     "category": "Men",
     "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
-    "stock": 49,
+    "stock": 0,
     "rating": {
       "rate": 3.9,
       "count": 120
@@ -72,7 +72,7 @@
     "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
     "category": "Accessories",
     "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
-    "stock": 190,
+    "stock": 0,
     "rating": {
       "rate": 3.9,
       "count": 70
@@ -124,7 +124,7 @@
     "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
     "category": "Electronics",
     "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
-    "stock": 187,
+    "stock": 0,
     "rating": {
       "rate": 2.9,
       "count": 470
@@ -150,7 +150,7 @@
     "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
     "category": "Electronics",
     "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
-    "stock": 178,
+    "stock": 0,
     "rating": {
       "rate": 4.8,
       "count": 400
@@ -176,7 +176,7 @@
     "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
     "category": "Electronics",
     "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
-    "stock": 114,
+    "stock": 0,
     "rating": {
       "rate": 2.2,
       "count": 140
@@ -189,7 +189,7 @@
     "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
     "category": "Women",
     "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
-    "stock": 184,
+    "stock": 0,
     "rating": {
       "rate": 2.6,
       "count": 235
@@ -215,7 +215,7 @@
     "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
     "category": "Women",
     "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
-    "stock": 62,
+    "stock": 0,
     "rating": {
       "rate": 3.8,
       "count": 679
@@ -228,7 +228,7 @@
     "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
     "category": "Women",
     "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png",
-    "stock": 124,
+    "stock": 0,
     "rating": {
       "rate": 4.7,
       "count": 130
@@ -1949,7 +1949,7 @@
   "images": [
     "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg"
   ],
-  "stock": 32,
+  "stock": 0,
   "rating": {
     "rate": 4.6,
     "count": 187
@@ -2156,7 +2156,7 @@
   "images": [
     "https://images.pexels.com/photos/1957478/pexels-photo-1957478.jpeg"
   ],
-  "stock": 28,
+  "stock": 0,
   "rating": {
     "rate": 4.3,
     "count": 169

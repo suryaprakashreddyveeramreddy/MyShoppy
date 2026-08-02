@@ -16,8 +16,10 @@ export default function CartScreen() {
 
   const {cart,increaseQuantity,decreaseQuantity,removeFromCart,getTotal,
   } = useCart();
-  const total = cart.reduce(
-  (sum, item) => sum + item.price * item.quantity,
+const total = cart.reduce(
+  (sum, item) =>
+    sum +
+    (item.stock === 0 ? 0 : item.price * item.quantity),
   0
 );
  
@@ -113,9 +115,13 @@ const handleDecrease = (item: any) => {
 
               <View style={styles.quantityRow}>
                 <TouchableOpacity
-                  style={styles.iconButton}
-                  onPress={() => handleDecrease(item)}
-                >
+  style={[
+    styles.iconButton,
+    item.stock === 0 && { backgroundColor: "#BDBDBD" },
+  ]}
+  disabled={item.stock === 0}
+  onPress={() => handleDecrease(item)}
+>
                   <Ionicons
                     name="remove"
                     size={18}
@@ -124,11 +130,15 @@ const handleDecrease = (item: any) => {
                 </TouchableOpacity>
 
                 <Text style={styles.quantity}>
-                  {item.quantity}
-                </Text>
+  {item.stock === 0 ? 0 : item.quantity}
+</Text>
 
                 <TouchableOpacity
-  style={styles.iconButton}
+  style={[
+    styles.iconButton,
+    item.stock === 0 && { backgroundColor: "#BDBDBD" },
+  ]}
+  disabled={item.stock === 0}
   onPress={() => {
     try {
       increaseQuantity(item.id);
@@ -181,7 +191,7 @@ const handleDecrease = (item: any) => {
       </Text>
 
       <Text style={styles.summaryPrice}>
-        ₹{(item.price * item.quantity).toFixed(2)}
+        ₹{(item.stock === 0 ? 0 : item.price * item.quantity).toFixed(2)}
       </Text>
     </View>
   ))}
