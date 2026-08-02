@@ -27,11 +27,11 @@ function ProductCard({
         />
       </TouchableOpacity>
 
-      {/* Product Image */}
-      <Image
-        source={{ uri: product.thumbnail }}
-        style={styles.image}
-      />
+    <Image
+  source={{ uri: product.image }}
+  style={styles.image}
+  resizeMode="contain"
+/>
 
       {/* Product Title */}
       <Text style={styles.title} numberOfLines={2}>
@@ -46,9 +46,9 @@ function ProductCard({
           color={Colors.warning}
         />
 
-        <Text style={styles.rating}>
-          {Number(product.rating).toFixed(1)}
-        </Text>
+       <Text style={styles.rating}>
+  {Number(product.rating.rate).toFixed(1)}
+</Text>
 
         <Text style={styles.stock}>
           ({product.stock} left)

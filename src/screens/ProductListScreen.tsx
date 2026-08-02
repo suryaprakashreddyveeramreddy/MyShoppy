@@ -87,7 +87,7 @@ const openProduct = useCallback(
       break;
 
     case "rating":
-      filtered.sort((a, b) => b.rating - a.rating);
+      filteredProducts.sort((a, b) => b.rating.rate - a.rating.rate);
       break;
 
     case "az":

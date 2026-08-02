@@ -5,7 +5,7 @@ export interface CartItem {
   id: number;
   title: string;
   price: number;
-  thumbnail: string;
+  image: string;
   quantity: number;
 }
 
@@ -81,18 +81,19 @@ export const CartProvider = ({
               }
             : item
         );
+        
       }
-
-      return [
-        ...prev,
-        {
-          id: product.id,
-          title: product.title,
-          price: product.price,
-          thumbnail: product.thumbnail,
-          quantity: 1,
-        },
-      ];
+      
+return [
+  ...prev,
+  {
+    id: product.id,
+    title: product.title,
+    price: product.price,
+    image: product.image,
+    quantity: 1,
+  },
+];
     });
   };
 

@@ -1,826 +1,2182 @@
 {
-  "products": [
-   
+  "products" :[
   {
     "id": 1,
-    "title": "Modern Wooden Sofa",
-    "description": "Comfortable 3-seater wooden sofa with premium cushions.",
-    "price": 24999,
-    "category": "Furniture",
-    "thumbnail": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg",
-    "images": [
-      "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg"
-    ],
-    "rating": 4.6
+    "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+    "price": 109.95,
+    "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+    "category": "Men",
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png",
+    "stock": 49,
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
   },
   {
     "id": 2,
-    "title": "Office Chair",
-    "description": "Ergonomic office chair with adjustable height.",
-    "price": 8999,
-    "category": "Furniture",
-    "thumbnail": "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg",
-    "images": [
-      "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg"
-    ],
-    "rating": 4.5
+    "title": "Mens Casual Premium Slim Fit T-Shirts ",
+    "price": 22.3,
+    "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+    "category": "Men",
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png",
+    "stock": 119,
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
   },
   {
     "id": 3,
-    "title": "Dining Table",
-    "description": "6-seater wooden dining table.",
-    "price": 18999,
-    "category": "Furniture",
-    "thumbnail": "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
-    "images": [
-      "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg"
-    ],
-    "rating": 4.4
+    "title": "Mens Cotton Jacket",
+    "price": 55.99,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "Men",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png",
+    "stock": 115,
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
   },
   {
     "id": 4,
-    "title": "Queen Bed",
-    "description": "Solid wood queen size bed.",
-    "price": 29999,
-    "category": "Furniture",
-    "thumbnail": "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg",
-    "images": [
-      "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg"
-    ],
-    "rating": 4.7
+    "title": "Mens Casual Slim Fit",
+    "price": 15.99,
+    "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+    "category": "Men",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_t.png",
+    "stock": 86,
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    }
   },
   {
     "id": 5,
-    "title": "Coffee Table",
-    "description": "Modern center coffee table.",
-    "price": 4999,
-    "category": "Furniture",
-    "thumbnail": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg",
-    "images": [
-      "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg"
-    ],
-    "rating": 4.3
+    "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+    "price": 695,
+    "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+    "category": "Accessories",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_t.png",
+    "stock": 119,
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    }
   },
   {
     "id": 6,
-    "title": "Wardrobe",
-    "description": "3-door wooden wardrobe with spacious shelves.",
-    "price": 22999,
-    "category": "Furniture",
-    "thumbnail": "https://images.pexels.com/photos/6585750/pexels-photo-6585750.jpeg",
-    "images": [
-      "https://images.pexels.com/photos/6585750/pexels-photo-6585750.jpeg"
-    ],
-    "rating": 4.6
+    "title": "Solid Gold Petite Micropave ",
+    "price": 168,
+    "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+    "category": "Accessories",
+    "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_t.png",
+    "stock": 190,
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    }
   },
   {
     "id": 7,
-    "title": "TV Unit",
-    "description": "Wooden TV cabinet with storage compartments.",
-    "price": 11999,
-    "category": "Furniture",
-    "thumbnail": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
-    "images": [
-      "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"
-    ],
-    "rating": 4.5
+    "title": "White Gold Plated Princess",
+    "price": 9.99,
+    "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+    "category": "Accessories",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png",
+    "stock": 45,
+    "rating": {
+      "rate": 3,
+      "count": 400
+    }
   },
   {
     "id": 8,
-    "title": "Bookshelf",
-    "description": "5-tier wooden bookshelf for books and decor.",
-    "price": 7999,
-    "category": "Furniture",
-    "thumbnail": "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg",
-    "images": [
-      "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg"
-    ],
-    "rating": 4.2
+    "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+    "price": 10.99,
+    "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+    "category": "Accessories",
+    "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_t.png",
+    "stock": 86,
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    }
   },
   {
     "id": 9,
-    "title": "Study Table",
-    "description": "Compact study table with storage drawer.",
-    "price": 6999,
-    "category": "Furniture",
-    "thumbnail": "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg",
-    "images": [
-      "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg"
-    ],
-    "rating": 4.5
+    "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+    "price": 64,
+    "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+    "category": "Electronics",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_t.png",
+    "stock": 26,
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    }
   },
   {
     "id": 10,
-    "title": "Recliner Chair",
-    "description": "Luxury recliner chair with adjustable footrest.",
-    "price": 17999,
-    "category": "Furniture",
-    "thumbnail": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg",
-    "images": [
-      "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg"
-    ],
-    "rating": 4.8
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "price": 109,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+    "category": "Electronics",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_t.png",
+    "stock": 187,
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    }
   },
-
-   
   {
     "id": 11,
-    "title": "Essence Mascara Lash Princess",
-    "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
-    "price": 9.99,
-    "category": "Beauty",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
-    ],
-    "rating": 2.56,
-    "stock": 99
+    "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+    "price": 109,
+    "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+    "category": "Electronics",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_t.png",
+    "stock": 200,
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
   },
   {
     "id": 12,
-    "title": "Eyeshadow Palette with Mirror",
-    "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
-    "price": 19.99,
-    "category": "Beauty",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp"
-    ],
-    "rating": 2.86,
-    "stock": 34
+    "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+    "price": 114,
+    "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+    "category": "Electronics",
+    "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_t.png",
+    "stock": 178,
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
   },
   {
     "id": 13,
-    "title": "Powder Canister",
-    "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
-    "price": 14.99,
-    "category": "Beauty",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp"
-    ],
-    "rating": 4.64,
-    "stock": 89
+    "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "price": 599,
+    "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+    "category": "Electronics",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_t.png",
+    "stock": 134,
+    "rating": {
+      "rate": 2.9,
+      "count": 250
+    }
   },
   {
     "id": 14,
-    "title": "Red Lipstick",
-    "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
-    "price": 12.99,
-    "category": "Beauty",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp"
-    ],
-    "rating": 4.36,
-    "stock": 91
+    "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+    "price": 999.99,
+    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "Electronics",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_t.png",
+    "stock": 114,
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
   },
   {
     "id": 15,
-    "title": "Red Nail Polish",
-    "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
-    "price": 8.99,
-    "category": "Beauty",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp"
-    ],
-    "rating": 4.32,
-    "stock": 79
+    "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+    "price": 56.99,
+    "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+    "category": "Women",
+    "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_t.png",
+    "stock": 184,
+    "rating": {
+      "rate": 2.6,
+      "count": 235
+    }
   },
   {
     "id": 16,
-    "title": "Calvin Klein CK One",
-    "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
-    "price": 49.99,
-    "category": "Beauty",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp"
-    ],
-    "rating": 4.37,
-    "stock": 29
+    "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+    "price": 29.95,
+    "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+    "category": "Women",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_t.png",
+    "stock": 75,
+    "rating": {
+      "rate": 2.9,
+      "count": 340
+    }
   },
   {
     "id": 17,
-    "title": "Chanel Coco Noir Eau De",
-    "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
-    "price": 129.99,
-    "category": "Beauty",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp"
-    ],
-    "rating": 4.26,
-    "stock": 58
+    "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+    "price": 39.99,
+    "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+    "category": "Women",
+    "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2t.png",
+    "stock": 62,
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
   },
   {
     "id": 18,
-    "title": "Dior J'adore",
-    "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
-    "price": 89.99,
-    "category": "Beauty",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp"
-    ],
-    "rating": 3.8,
-    "stock": 98
+    "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+    "price": 9.85,
+    "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+    "category": "Women",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_t.png",
+    "stock": 124,
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    }
   },
   {
     "id": 19,
-    "title": "Dolce Shine Eau de",
-    "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
-    "price": 69.99,
-    "category": "Beauty",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp"
-    ],
-    "rating": 3.96,
-    "stock": 4
+    "title": "Opna Women's Short Sleeve Moisture",
+    "price": 7.95,
+    "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+    "category": "Women",
+    "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_t.png",
+    "stock": 156,
+    "rating": {
+      "rate": 4.5,
+      "count": 146
+    }
   },
   {
     "id": 20,
-    "title": "Gucci Bloom Eau de",
-    "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
-    "price": 79.99,
-    "category": "Beauty",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp"
-    ],
-    "rating": 2.74,
-    "stock": 91
-  }
-,
-
+    "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+    "price": 12.99,
+    "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+    "category": "Women",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_t.png",
+    "stock": 150,
+    "rating": {
+      "rate": 3.6,
+      "count": 145
+    }
+  },
   {
     "id": 21,
-    "title": "Blue & Black Check Shirt",
-    "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
-    "price": 29.99,
-    "category": "Fashion",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp"
-    ],
-    "rating": 3.64,
-    "stock": 38
+    "title": "Essence Mascara Lash Princess",
+    "price": 9.99,
+    "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+    "category": "Beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+    "stock": 99,
+    "rating": {
+      "rate": 2.56,
+      "count": 107
+    }
   },
   {
     "id": 22,
-    "title": "Gigabyte Aorus Men Tshirt",
-    "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
-    "price": 24.99,
-    "category": "Fashion",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp"
-    ],
-    "rating": 3.18,
-    "stock": 90
+    "title": "Eyeshadow Palette with Mirror",
+    "price": 19.99,
+    "description": "The Eyeshadow Palette with Mirror offers a versatile range of eyeshadow shades for creating stunning eye looks. With a built-in mirror, it's convenient for on-the-go makeup application.",
+    "category": "Beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp",
+    "stock": 34,
+    "rating": {
+      "rate": 2.86,
+      "count": 411
+    }
   },
   {
     "id": 23,
-    "title": "Man Plaid Shirt",
-    "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
-    "price": 34.99,
-    "category": "Fashion",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp"
-    ],
-    "rating": 3.46,
-    "stock": 82
+    "title": "Powder Canister",
+    "price": 14.99,
+    "description": "The Powder Canister is a finely milled setting powder designed to set makeup and control shine. With a lightweight and translucent formula, it provides a smooth and matte finish.",
+    "category": "Beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+    "stock": 89,
+    "rating": {
+      "rate": 4.64,
+      "count": 269
+    }
   },
   {
     "id": 24,
-    "title": "Man Short Sleeve Shirt",
-    "description": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
-    "price": 19.99,
-    "category": "Fashion",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp"
-    ],
-    "rating": 2.9,
-    "stock": 2
+    "title": "Red Lipstick",
+    "price": 12.99,
+    "description": "The Red Lipstick is a classic and bold choice for adding a pop of color to your lips. With a creamy and pigmented formula, it provides a vibrant and long-lasting finish.",
+    "category": "Beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp",
+    "stock": 91,
+    "rating": {
+      "rate": 4.36,
+      "count": 415
+    }
   },
   {
     "id": 25,
-    "title": "Men Check Shirt",
-    "description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
-    "price": 27.99,
-    "category": "Fashion",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp"
-    ],
-    "rating": 2.72,
-    "stock": 95
+    "title": "Red Nail Polish",
+    "price": 8.99,
+    "description": "The Red Nail Polish offers a rich and glossy red hue for vibrant and polished nails. With a quick-drying formula, it provides a salon-quality finish at home.",
+    "category": "Beauty",
+    "image": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp",
+    "stock": 79,
+    "rating": {
+      "rate": 4.32,
+      "count": 323
+    }
   },
   {
     "id": 26,
-    "title": "Nike Air Jordan 1 Red And Black",
-    "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
-    "price": 149.99,
-    "category": "Fashion",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp"
-    ],
-    "rating": 4.77,
-    "stock": 7
+    "title": "Calvin Klein CK One",
+    "price": 49.99,
+    "description": "CK One by Calvin Klein is a classic unisex fragrance, known for its fresh and clean scent. It's a versatile fragrance suitable for everyday wear.",
+    "category": "Beauty",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp",
+    "stock": 29,
+    "rating": {
+      "rate": 4.37,
+      "count": 470
+    }
   },
   {
     "id": 27,
-    "title": "Nike Baseball Cleats",
-    "description": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
-    "price": 79.99,
-    "category": "Fashion",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp"
-    ],
-    "rating": 3.88,
-    "stock": 12
+    "title": "Chanel Coco Noir Eau De",
+    "price": 129.99,
+    "description": "Coco Noir by Chanel is an elegant and mysterious fragrance, featuring notes of grapefruit, rose, and sandalwood. Perfect for evening occasions.",
+    "category": "Beauty",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp",
+    "stock": 58,
+    "rating": {
+      "rate": 4.26,
+      "count": 513
+    }
   },
   {
     "id": 28,
-    "title": "Puma Future Rider Trainers",
-    "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+    "title": "Dior J'adore",
     "price": 89.99,
-    "category": "Fashion",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp"
-    ],
-    "rating": 4.9,
-    "stock": 90
+    "description": "J'adore by Dior is a luxurious and floral fragrance, known for its blend of ylang-ylang, rose, and jasmine. It embodies femininity and sophistication.",
+    "category": "Beauty",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
+    "stock": 98,
+    "rating": {
+      "rate": 3.8,
+      "count": 108
+    }
   },
   {
     "id": 29,
-    "title": "Sports Sneakers Off White & Red",
-    "description": "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
-    "price": 119.99,
-    "category": "Fashion",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp"
-    ],
-    "rating": 4.77,
-    "stock": 17
+    "title": "Dolce Shine Eau de",
+    "price": 69.99,
+    "description": "Dolce Shine by Dolce & Gabbana is a vibrant and fruity fragrance, featuring notes of mango, jasmine, and blonde woods. It's a joyful and youthful scent.",
+    "category": "Beauty",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp",
+    "stock": 4,
+    "rating": {
+      "rate": 3.96,
+      "count": 125
+    }
   },
   {
     "id": 30,
-    "title": "Sports Sneakers Off White Red",
-    "description": "Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
-    "price": 109.99,
-    "category": "Fashion",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp"
-    ],
-    "rating": 4.69,
-    "stock": 62
-  }
-,
-
+    "title": "Gucci Bloom Eau de",
+    "price": 79.99,
+    "description": "Gucci Bloom by Gucci is a floral and captivating fragrance, with notes of tuberose, jasmine, and Rangoon creeper. It's a modern and romantic scent.",
+    "category": "Beauty",
+    "image": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp",
+    "stock": 91,
+    "rating": {
+      "rate": 2.74,
+      "count": 488
+    }
+  },
   {
     "id": 31,
-    "title": "Apple",
-    "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
-    "price": 1.99,
-    "category": "Groceries",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
-    ],
-    "rating": 4.19,
-    "stock": 8
+    "title": "Annibale Colombo Bed",
+    "price": 1899.99,
+    "description": "The Annibale Colombo Bed is a luxurious and elegant bed frame, crafted with high-quality materials for a comfortable and stylish bedroom.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp",
+    "stock": 88,
+    "rating": {
+      "rate": 4.77,
+      "count": 209
+    }
   },
   {
     "id": 32,
-    "title": "Beef Steak",
-    "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
-    "price": 12.99,
-    "category": "Groceries",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp"
-    ],
-    "rating": 4.47,
-    "stock": 86
+    "title": "Annibale Colombo Sofa",
+    "price": 2499.99,
+    "description": "The Annibale Colombo Sofa is a sophisticated and comfortable seating option, featuring exquisite design and premium upholstery for your living room.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp",
+    "stock": 60,
+    "rating": {
+      "rate": 3.92,
+      "count": 461
+    }
   },
   {
     "id": 33,
-    "title": "Cat Food",
-    "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
-    "price": 8.99,
-    "category": "Groceries",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp"
-    ],
-    "rating": 3.13,
-    "stock": 46
+    "title": "Bedside Table African Cherry",
+    "price": 299.99,
+    "description": "The Bedside Table in African Cherry is a stylish and functional addition to your bedroom, providing convenient storage space and a touch of elegance.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp",
+    "stock": 64,
+    "rating": {
+      "rate": 2.87,
+      "count": 489
+    }
   },
   {
     "id": 34,
-    "title": "Chicken Meat",
-    "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
-    "price": 9.99,
-    "category": "Groceries",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
-    ],
-    "rating": 3.19,
-    "stock": 97
+    "title": "Knoll Saarinen Executive Conference Chair",
+    "price": 499.99,
+    "description": "The Knoll Saarinen Executive Conference Chair is a modern and ergonomic chair, perfect for your office or conference room with its timeless design.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp",
+    "stock": 26,
+    "rating": {
+      "rate": 4.88,
+      "count": 249
+    }
   },
   {
     "id": 35,
-    "title": "Cooking Oil",
-    "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
-    "price": 4.99,
-    "category": "Groceries",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp"
-    ],
-    "rating": 4.8,
-    "stock": 10
+    "title": "Wooden Bathroom Sink With Mirror",
+    "price": 799.99,
+    "description": "The Wooden Bathroom Sink with Mirror is a unique and stylish addition to your bathroom, featuring a wooden sink countertop and a matching mirror.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-sink-with-mirror/thumbnail.webp",
+    "stock": 7,
+    "rating": {
+      "rate": 3.59,
+      "count": 320
+    }
   },
   {
     "id": 36,
-    "title": "Cucumber",
-    "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
-    "price": 1.49,
+    "title": "Apple",
+    "price": 1.99,
+    "description": "Fresh and crisp apples, perfect for snacking or incorporating into various recipes.",
     "category": "Groceries",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp"
-    ],
-    "rating": 4.07,
-    "stock": 84
+    "image": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp",
+    "stock": 8,
+    "rating": {
+      "rate": 4.19,
+      "count": 127
+    }
   },
   {
     "id": 37,
-    "title": "Dog Food",
-    "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
-    "price": 10.99,
+    "title": "Beef Steak",
+    "price": 12.99,
+    "description": "High-quality beef steak, great for grilling or cooking to your preferred level of doneness.",
     "category": "Groceries",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp"
-    ],
-    "rating": 4.55,
-    "stock": 71
+    "image": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp",
+    "stock": 86,
+    "rating": {
+      "rate": 4.47,
+      "count": 36
+    }
   },
   {
     "id": 38,
-    "title": "Eggs",
-    "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
-    "price": 2.99,
+    "title": "Cat Food",
+    "price": 8.99,
+    "description": "Nutritious cat food formulated to meet the dietary needs of your feline friend.",
     "category": "Groceries",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp"
-    ],
-    "rating": 2.53,
-    "stock": 9
+    "image": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp",
+    "stock": 46,
+    "rating": {
+      "rate": 3.13,
+      "count": 502
+    }
   },
   {
     "id": 39,
-    "title": "Fish Steak",
-    "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
-    "price": 14.99,
+    "title": "Chicken Meat",
+    "price": 9.99,
+    "description": "Fresh and tender chicken meat, suitable for various culinary preparations.",
     "category": "Groceries",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp"
-    ],
-    "rating": 3.78,
-    "stock": 74
+    "image": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp",
+    "stock": 97,
+    "rating": {
+      "rate": 3.19,
+      "count": 257
+    }
   },
   {
     "id": 40,
-    "title": "Green Bell Pepper",
-    "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
-    "price": 1.29,
+    "title": "Cooking Oil",
+    "price": 4.99,
+    "description": "Versatile cooking oil suitable for frying, sautéing, and various culinary applications.",
     "category": "Groceries",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp"
-    ],
-    "rating": 3.25,
-    "stock": 33
-  }
-,
-
- 
+    "image": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp",
+    "stock": 10,
+    "rating": {
+      "rate": 4.8,
+      "count": 87
+    }
+  },
   {
     "id": 41,
-    "title": "Generic Motorcycle",
-    "description": "The Generic Motorcycle is a versatile and reliable bike suitable for various riding preferences. With a balanced design, it provides a comfortable and efficient riding experience.",
-    "price": 3999.99,
-    "category": "Automotive",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp"
-    ],
-    "rating": 4.91,
-    "stock": 34
+    "title": "Cucumber",
+    "price": 1.49,
+    "description": "Crisp and hydrating cucumbers, ideal for salads, snacks, or as a refreshing side.",
+    "category": "Groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/cucumber/thumbnail.webp",
+    "stock": 84,
+    "rating": {
+      "rate": 4.07,
+      "count": 403
+    }
   },
   {
     "id": 42,
-    "title": "Kawasaki Z800",
-    "description": "The Kawasaki Z800 is a powerful and agile sportbike known for its striking design and performance. It's equipped with advanced features, making it a favorite among motorcycle enthusiasts.",
-    "price": 8999.99,
-    "category": "Automotive",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/thumbnail.webp"
-    ],
-    "rating": 3.98,
-    "stock": 52
+    "title": "Dog Food",
+    "price": 10.99,
+    "description": "Specially formulated dog food designed to provide essential nutrients for your canine companion.",
+    "category": "Groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/dog-food/thumbnail.webp",
+    "stock": 71,
+    "rating": {
+      "rate": 4.55,
+      "count": 292
+    }
   },
   {
     "id": 43,
-    "title": "MotoGP CI.H1",
-    "description": "The MotoGP CI.H1 is a high-performance motorcycle inspired by MotoGP racing technology. It offers cutting-edge features and precision engineering for an exhilarating riding experience.",
-    "price": 14999.99,
-    "category": "Automotive",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/thumbnail.webp"
-    ],
-    "rating": 2.97,
-    "stock": 10
+    "title": "Eggs",
+    "price": 2.99,
+    "description": "Fresh eggs, a versatile ingredient for baking, cooking, or breakfast.",
+    "category": "Groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/eggs/thumbnail.webp",
+    "stock": 9,
+    "rating": {
+      "rate": 2.53,
+      "count": 271
+    }
   },
   {
     "id": 44,
-    "title": "Scooter Motorcycle",
-    "description": "The Scooter Motorcycle is a practical and fuel-efficient bike ideal for urban commuting. It features a step-through design and user-friendly controls for easy maneuverability.",
-    "price": 2999.99,
-    "category": "Automotive",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/thumbnail.webp"
-    ],
-    "rating": 2.53,
-    "stock": 84
+    "title": "Fish Steak",
+    "price": 14.99,
+    "description": "Quality fish steak, suitable for grilling, baking, or pan-searing.",
+    "category": "Groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+    "stock": 74,
+    "rating": {
+      "rate": 3.78,
+      "count": 502
+    }
   },
   {
     "id": 45,
-    "title": "Sportbike Motorcycle",
-    "description": "The Sportbike Motorcycle is designed for speed and agility, with a sleek and aerodynamic profile. It's suitable for riders looking for a dynamic and thrilling riding experience.",
-    "price": 7499.99,
-    "category": "Automotive",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/thumbnail.webp"
-    ],
-    "rating": 3.94,
-    "stock": 0
-  }
-,
-
+    "title": "Green Bell Pepper",
+    "price": 1.29,
+    "description": "Fresh and vibrant green bell pepper, perfect for adding color and flavor to your dishes.",
+    "category": "Groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/green-bell-pepper/thumbnail.webp",
+    "stock": 33,
+    "rating": {
+      "rate": 3.25,
+      "count": 324
+    }
+  },
+  {
+    "id": 46,
+    "title": "Green Chili Pepper",
+    "price": 0.99,
+    "description": "Spicy green chili pepper, ideal for adding heat to your favorite recipes.",
+    "category": "Groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/green-chili-pepper/thumbnail.webp",
+    "stock": 3,
+    "rating": {
+      "rate": 3.66,
+      "count": 461
+    }
+  },
+  {
+    "id": 47,
+    "title": "Honey Jar",
+    "price": 6.99,
+    "description": "Pure and natural honey in a convenient jar, perfect for sweetening beverages or drizzling over food.",
+    "category": "Groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/honey-jar/thumbnail.webp",
+    "stock": 34,
+    "rating": {
+      "rate": 3.97,
+      "count": 501
+    }
+  },
+  {
+    "id": 48,
+    "title": "Ice Cream",
+    "price": 5.49,
+    "description": "Creamy and delicious ice cream, available in various flavors for a delightful treat.",
+    "category": "Groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/ice-cream/thumbnail.webp",
+    "stock": 27,
+    "rating": {
+      "rate": 3.39,
+      "count": 297
+    }
+  },
+  {
+    "id": 49,
+    "title": "Juice",
+    "price": 3.99,
+    "description": "Refreshing fruit juice, packed with vitamins and great for staying hydrated.",
+    "category": "Groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/juice/thumbnail.webp",
+    "stock": 50,
+    "rating": {
+      "rate": 3.94,
+      "count": 154
+    }
+  },
+  {
+    "id": 50,
+    "title": "Kiwi",
+    "price": 2.49,
+    "description": "Nutrient-rich kiwi, perfect for snacking or adding a tropical twist to your dishes.",
+    "category": "Groceries",
+    "image": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp",
+    "stock": 99,
+    "rating": {
+      "rate": 4.93,
+      "count": 45
+    }
+  },
   {
     "id": 51,
-    "title": "American Football",
-    "description": "The American Football is a classic ball used in American football games. It is designed for throwing and catching, making it an essential piece of equipment for the sport.",
-    "price": 19.99,
-    "category": "Sports",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp"
-    ],
-    "rating": 4.91,
-    "stock": 53
+    "title": "Decoration Swing",
+    "price": 59.99,
+    "description": "The Decoration Swing is a charming addition to your home decor. Crafted with intricate details, it adds a touch of elegance and whimsy to any room.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/decoration-swing/thumbnail.webp",
+    "stock": 47,
+    "rating": {
+      "rate": 3.16,
+      "count": 299
+    }
   },
   {
     "id": 52,
-    "title": "Baseball Ball",
-    "description": "The Baseball Ball is a standard baseball used in baseball games. It features a durable leather cover and is designed for pitching, hitting, and fielding in the game of baseball.",
-    "price": 8.99,
-    "category": "Sports",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp"
-    ],
-    "rating": 2.57,
-    "stock": 100
+    "title": "Family Tree Photo Frame",
+    "price": 29.99,
+    "description": "The Family Tree Photo Frame is a sentimental and stylish way to display your cherished family memories. With multiple photo slots, it tells the story of your loved ones.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/family-tree-photo-frame/thumbnail.webp",
+    "stock": 77,
+    "rating": {
+      "rate": 4.53,
+      "count": 462
+    }
   },
   {
     "id": 53,
-    "title": "Baseball Glove",
-    "description": "The Baseball Glove is a protective glove worn by baseball players. It is designed to catch and field the baseball, providing players with comfort and control during the game.",
-    "price": 24.99,
-    "category": "Sports",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp"
-    ],
-    "rating": 3.96,
-    "stock": 22
+    "title": "House Showpiece Plant",
+    "price": 39.99,
+    "description": "The House Showpiece Plant is an artificial plant that brings a touch of nature to your home without the need for maintenance. It adds greenery and style to any space.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/house-showpiece-plant/thumbnail.webp",
+    "stock": 28,
+    "rating": {
+      "rate": 4.67,
+      "count": 498
+    }
   },
   {
     "id": 54,
-    "title": "Basketball",
-    "description": "The Basketball is a standard ball used in basketball games. It is designed for dribbling, shooting, and passing in the game of basketball, suitable for both indoor and outdoor play.",
+    "title": "Plant Pot",
     "price": 14.99,
-    "category": "Sports",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp"
-    ],
-    "rating": 4.66,
-    "stock": 75
+    "description": "The Plant Pot is a stylish container for your favorite plants. With a sleek design, it complements your indoor or outdoor garden, adding a modern touch to your plant display.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/plant-pot/thumbnail.webp",
+    "stock": 59,
+    "rating": {
+      "rate": 3.01,
+      "count": 317
+    }
   },
   {
     "id": 55,
-    "title": "Basketball Rim",
-    "description": "The Basketball Rim is a sturdy hoop and net assembly mounted on a basketball backboard. It provides a target for shooting and scoring in the game of basketball.",
-    "price": 39.99,
-    "category": "Sports",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp"
-    ],
-    "rating": 4.60,
-    "stock": 43
+    "title": "Table Lamp",
+    "price": 49.99,
+    "description": "The Table Lamp is a functional and decorative lighting solution for your living space. With a modern design, it provides both ambient and task lighting, enhancing the atmosphere.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp",
+    "stock": 9,
+    "rating": {
+      "rate": 3.55,
+      "count": 79
+    }
   },
   {
     "id": 56,
-    "title": "Cricket Ball",
-    "description": "The Cricket Ball is a hard leather ball used in the sport of cricket. It is bowled and batted in the game, and its hardness and seam contribute to the dynamics of cricket play.",
-    "price": 12.99,
-    "category": "Sports",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp"
-    ],
-    "rating": 3.53,
-    "stock": 30
+    "title": "Bamboo Spatula",
+    "price": 7.99,
+    "description": "The Bamboo Spatula is a versatile kitchen tool made from eco-friendly bamboo. Ideal for flipping, stirring, and serving various dishes.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/bamboo-spatula/thumbnail.webp",
+    "stock": 37,
+    "rating": {
+      "rate": 3.27,
+      "count": 427
+    }
   },
   {
     "id": 57,
-    "title": "Cricket Bat",
-    "description": "The Cricket Bat is an essential piece of cricket equipment used by batsmen to hit the cricket ball. It is made of wood and comes in various sizes and designs.",
-    "price": 29.99,
-    "category": "Sports",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp"
-    ],
-    "rating": 3.17,
-    "stock": 98
+    "title": "Black Aluminium Cup",
+    "price": 5.99,
+    "description": "The Black Aluminium Cup is a stylish and durable cup suitable for both hot and cold beverages. Its sleek black design adds a modern touch to your drinkware collection.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-aluminium-cup/thumbnail.webp",
+    "stock": 75,
+    "rating": {
+      "rate": 4.46,
+      "count": 459
+    }
   },
   {
     "id": 58,
-    "title": "Cricket Helmet",
-    "description": "The Cricket Helmet is a protective headgear worn by cricket players, especially batsmen and wicketkeepers. It provides protection against fast bowling and bouncers.",
-    "price": 44.99,
-    "category": "Sports",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp"
-    ],
-    "rating": 4.69,
-    "stock": 10
-  }
-,
-
+    "title": "Black Whisk",
+    "price": 9.99,
+    "description": "The Black Whisk is a kitchen essential for whisking and beating ingredients. Its ergonomic handle and sleek design make it a practical and stylish tool.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/black-whisk/thumbnail.webp",
+    "stock": 73,
+    "rating": {
+      "rate": 3.9,
+      "count": 235
+    }
+  },
+  {
+    "id": 59,
+    "title": "Boxed Blender",
+    "price": 39.99,
+    "description": "The Boxed Blender is a powerful and compact blender perfect for smoothies, shakes, and more. Its convenient design and multiple functions make it a versatile kitchen appliance.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/boxed-blender/thumbnail.webp",
+    "stock": 9,
+    "rating": {
+      "rate": 4.56,
+      "count": 454
+    }
+  },
+  {
+    "id": 60,
+    "title": "Carbon Steel Wok",
+    "price": 29.99,
+    "description": "The Carbon Steel Wok is a versatile cooking pan suitable for stir-frying, sautéing, and deep frying. Its sturdy construction ensures even heat distribution for delicious meals.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/carbon-steel-wok/thumbnail.webp",
+    "stock": 40,
+    "rating": {
+      "rate": 4.05,
+      "count": 414
+    }
+  },
   {
     "id": 61,
-    "title": "Apple MacBook Pro 14 Inch Space Grey",
-    "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
-    "price": 1999.99,
-    "category": "Tech",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp"
-    ],
-    "rating": 3.65,
-    "stock": 24
+    "title": "Chopping Board",
+    "price": 12.99,
+    "description": "The Chopping Board is an essential kitchen accessory for food preparation. Made from durable material, it provides a safe and hygienic surface for cutting and chopping.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/chopping-board/thumbnail.webp",
+    "stock": 14,
+    "rating": {
+      "rate": 3.7,
+      "count": 192
+    }
   },
   {
     "id": 62,
-    "title": "Asus Zenbook Pro Dual Screen Laptop",
-    "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
-    "price": 1799.99,
-    "category": "Tech",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp"
-    ],
-    "rating": 3.95,
-    "stock": 45
+    "title": "Citrus Squeezer Yellow",
+    "price": 8.99,
+    "description": "The Citrus Squeezer in Yellow is a handy tool for extracting juice from citrus fruits. Its vibrant color adds a cheerful touch to your kitchen gadgets.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/citrus-squeezer-yellow/thumbnail.webp",
+    "stock": 22,
+    "rating": {
+      "rate": 4.63,
+      "count": 149
+    }
   },
   {
     "id": 63,
-    "title": "Huawei Matebook X Pro",
-    "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
-    "price": 1399.99,
-    "category": "Tech",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp"
-    ],
-    "rating": 4.98,
-    "stock": 75
+    "title": "Egg Slicer",
+    "price": 6.99,
+    "description": "The Egg Slicer is a convenient tool for slicing boiled eggs evenly. It's perfect for salads, sandwiches, and other dishes where sliced eggs are desired.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/egg-slicer/thumbnail.webp",
+    "stock": 40,
+    "rating": {
+      "rate": 3.09,
+      "count": 490
+    }
   },
   {
     "id": 64,
-    "title": "Lenovo Yoga 920",
-    "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
-    "price": 1099.99,
-    "category": "Tech",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp"
-    ],
-    "rating": 2.86,
-    "stock": 40
+    "title": "Electric Stove",
+    "price": 49.99,
+    "description": "The Electric Stove provides a portable and efficient cooking solution. Ideal for small kitchens or as an additional cooking surface for various culinary needs.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/electric-stove/thumbnail.webp",
+    "stock": 21,
+    "rating": {
+      "rate": 4.11,
+      "count": 253
+    }
   },
   {
     "id": 65,
-    "title": "New DELL XPS 13 9300 Laptop",
-    "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
-    "price": 1499.99,
-    "category": "Tech",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp"
-    ],
-    "rating": 2.67,
-    "stock": 74
+    "title": "Fine Mesh Strainer",
+    "price": 9.99,
+    "description": "The Fine Mesh Strainer is a versatile tool for straining liquids and sifting dry ingredients. Its fine mesh ensures efficient filtering for smooth cooking and baking.",
+    "category": "Home & Kitchen",
+    "image": "https://cdn.dummyjson.com/product-images/kitchen-accessories/fine-mesh-strainer/thumbnail.webp",
+    "stock": 85,
+    "rating": {
+      "rate": 3.04,
+      "count": 215
+    }
   },
   {
     "id": 66,
-    "title": "Amazon Echo Plus",
-    "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
-    "price": 99.99,
-    "category": "Tech",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp"
-    ],
-    "rating": 4.99,
-    "stock": 61
+    "title": "Apple MacBook Pro 14 Inch Space Grey",
+    "price": 1999.99,
+    "description": "The MacBook Pro 14 Inch in Space Grey is a powerful and sleek laptop, featuring Apple's M1 Pro chip for exceptional performance and a stunning Retina display.",
+    "category": "Electronics",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp",
+    "stock": 24,
+    "rating": {
+      "rate": 3.65,
+      "count": 251
+    }
   },
   {
     "id": 67,
-    "title": "Apple Airpods",
-    "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
-    "price": 129.99,
-    "category": "Tech",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp"
-    ],
-    "rating": 4.15,
-    "stock": 67
+    "title": "Asus Zenbook Pro Dual Screen Laptop",
+    "price": 1799.99,
+    "description": "The Asus Zenbook Pro Dual Screen Laptop is a high-performance device with dual screens, providing productivity and versatility for creative professionals.",
+    "category": "Electronics",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/asus-zenbook-pro-dual-screen-laptop/thumbnail.webp",
+    "stock": 45,
+    "rating": {
+      "rate": 3.95,
+      "count": 300
+    }
   },
   {
     "id": 68,
-    "title": "Apple AirPods Max Silver",
-    "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
-    "price": 549.99,
-    "category": "Tech",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp"
-    ],
-    "rating": 3.47,
-    "stock": 59
+    "title": "Huawei Matebook X Pro",
+    "price": 1399.99,
+    "description": "The Huawei Matebook X Pro is a slim and stylish laptop with a high-resolution touchscreen display, offering a premium experience for users on the go.",
+    "category": "Electronics",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/huawei-matebook-x-pro/thumbnail.webp",
+    "stock": 75,
+    "rating": {
+      "rate": 4.98,
+      "count": 326
+    }
   },
   {
     "id": 69,
-    "title": "Apple Watch Series 4 Gold",
-    "description": "The Apple Watch Series 4 in Gold is a stylish and advanced smartwatch with features like heart rate monitoring, fitness tracking, and a beautiful Retina display.",
-    "price": 349.99,
-    "category": "Tech",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp"
-    ],
-    "rating": 2.74,
-    "stock": 33
+    "title": "Lenovo Yoga 920",
+    "price": 1099.99,
+    "description": "The Lenovo Yoga 920 is a 2-in-1 convertible laptop with a flexible hinge, allowing you to use it as a laptop or tablet, offering versatility and portability.",
+    "category": "Electronics",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp",
+    "stock": 40,
+    "rating": {
+      "rate": 2.86,
+      "count": 280
+    }
   },
   {
     "id": 70,
+    "title": "New DELL XPS 13 9300 Laptop",
+    "price": 1499.99,
+    "description": "The New DELL XPS 13 9300 Laptop is a compact and powerful device, featuring a virtually borderless InfinityEdge display and high-end performance for various tasks.",
+    "category": "Electronics",
+    "image": "https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp",
+    "stock": 74,
+    "rating": {
+      "rate": 2.67,
+      "count": 370
+    }
+  },
+  {
+    "id": 71,
+    "title": "Blue & Black Check Shirt",
+    "price": 29.99,
+    "description": "The Blue & Black Check Shirt is a stylish and comfortable men's shirt featuring a classic check pattern. Made from high-quality fabric, it's suitable for both casual and semi-formal occasions.",
+    "category": "Men",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/blue-&-black-check-shirt/thumbnail.webp",
+    "stock": 38,
+    "rating": {
+      "rate": 3.64,
+      "count": 324
+    }
+  },
+  {
+    "id": 72,
+    "title": "Gigabyte Aorus Men Tshirt",
+    "price": 24.99,
+    "description": "The Gigabyte Aorus Men Tshirt is a cool and casual shirt for gaming enthusiasts. With the Aorus logo and sleek design, it's perfect for expressing your gaming style.",
+    "category": "Men",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/gigabyte-aorus-men-tshirt/thumbnail.webp",
+    "stock": 90,
+    "rating": {
+      "rate": 3.18,
+      "count": 419
+    }
+  },
+  {
+    "id": 73,
+    "title": "Man Plaid Shirt",
+    "price": 34.99,
+    "description": "The Man Plaid Shirt is a timeless and versatile men's shirt with a classic plaid pattern. Its comfortable fit and casual style make it a wardrobe essential for various occasions.",
+    "category": "Men",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/man-plaid-shirt/thumbnail.webp",
+    "stock": 82,
+    "rating": {
+      "rate": 3.46,
+      "count": 178
+    }
+  },
+  {
+    "id": 74,
+    "title": "Man Short Sleeve Shirt",
+    "price": 19.99,
+    "description": "The Man Short Sleeve Shirt is a breezy and stylish option for warm days. With a comfortable fit and short sleeves, it's perfect for a laid-back yet polished look.",
+    "category": "Men",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp",
+    "stock": 2,
+    "rating": {
+      "rate": 2.9,
+      "count": 160
+    }
+  },
+  {
+    "id": 75,
+    "title": "Men Check Shirt",
+    "price": 27.99,
+    "description": "The Men Check Shirt is a classic and versatile shirt featuring a stylish check pattern. Suitable for various occasions, it adds a smart and polished touch to your wardrobe.",
+    "category": "Men",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shirts/men-check-shirt/thumbnail.webp",
+    "stock": 95,
+    "rating": {
+      "rate": 2.72,
+      "count": 264
+    }
+  },
+  {
+    "id": 76,
+    "title": "Nike Air Jordan 1 Red And Black",
+    "price": 149.99,
+    "description": "The Nike Air Jordan 1 in Red and Black is an iconic basketball sneaker known for its stylish design and high-performance features, making it a favorite among sneaker enthusiasts and athletes.",
+    "category": "Men",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-air-jordan-1-red-and-black/thumbnail.webp",
+    "stock": 7,
+    "rating": {
+      "rate": 4.77,
+      "count": 519
+    }
+  },
+  {
+    "id": 77,
+    "title": "Nike Baseball Cleats",
+    "price": 79.99,
+    "description": "Nike Baseball Cleats are designed for maximum traction and performance on the baseball field. They provide stability and support for players during games and practices.",
+    "category": "Men",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/nike-baseball-cleats/thumbnail.webp",
+    "stock": 12,
+    "rating": {
+      "rate": 3.88,
+      "count": 482
+    }
+  },
+  {
+    "id": 78,
+    "title": "Puma Future Rider Trainers",
+    "price": 89.99,
+    "description": "The Puma Future Rider Trainers offer a blend of retro style and modern comfort. Perfect for casual wear, these trainers provide a fashionable and comfortable option for everyday use.",
+    "category": "Men",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp",
+    "stock": 90,
+    "rating": {
+      "rate": 4.9,
+      "count": 173
+    }
+  },
+  {
+    "id": 79,
+    "title": "Sports Sneakers Off White & Red",
+    "price": 119.99,
+    "description": "The Sports Sneakers in Off White and Red combine style and functionality, making them a fashionable choice for sports enthusiasts. The red and off-white color combination adds a bold and energetic touch.",
+    "category": "Men",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-&-red/thumbnail.webp",
+    "stock": 17,
+    "rating": {
+      "rate": 4.77,
+      "count": 325
+    }
+  },
+  {
+    "id": 80,
+    "title": "Sports Sneakers Off White Red",
+    "price": 109.99,
+    "description": "Another variant of the Sports Sneakers in Off White Red, featuring a unique design. These sneakers offer style and comfort for casual occasions.",
+    "category": "Men",
+    "image": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp",
+    "stock": 62,
+    "rating": {
+      "rate": 4.69,
+      "count": 486
+    }
+  },
+  {
+    "id": 81,
+    "title": "Brown Leather Belt Watch",
+    "price": 89.99,
+    "description": "The Brown Leather Belt Watch is a stylish timepiece with a classic design. Featuring a genuine leather strap and a sleek dial, it adds a touch of sophistication to your look.",
+    "category": "Men",
+    "image": "https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp",
+    "stock": 32,
+    "rating": {
+      "rate": 4.19,
+      "count": 240
+    }
+  },
+  {
+    "id": 82,
+    "title": "Amazon Echo Plus",
+    "price": 99.99,
+    "description": "The Amazon Echo Plus is a smart speaker with built-in Alexa voice control. It features premium sound quality and serves as a hub for controlling smart home devices.",
+    "category": "Electronics",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/amazon-echo-plus/thumbnail.webp",
+    "stock": 61,
+    "rating": {
+      "rate": 4.99,
+      "count": 287
+    }
+  },
+  {
+    "id": 83,
+    "title": "Apple Airpods",
+    "price": 129.99,
+    "description": "The Apple Airpods offer a seamless wireless audio experience. With easy pairing, high-quality sound, and Siri integration, they are perfect for on-the-go listening.",
+    "category": "Electronics",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp",
+    "stock": 67,
+    "rating": {
+      "rate": 4.15,
+      "count": 519
+    }
+  },
+  {
+    "id": 84,
+    "title": "Apple AirPods Max Silver",
+    "price": 549.99,
+    "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+    "category": "Electronics",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp",
+    "stock": 59,
+    "rating": {
+      "rate": 3.47,
+      "count": 506
+    }
+  },
+  {
+    "id": 85,
+    "title": "Apple Airpower Wireless Charger",
+    "price": 79.99,
+    "description": "The Apple AirPower Wireless Charger provides a convenient way to charge your compatible Apple devices wirelessly. Simply place your devices on the charging mat for effortless charging.",
+    "category": "Electronics",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpower-wireless-charger/thumbnail.webp",
+    "stock": 1,
+    "rating": {
+      "rate": 3.68,
+      "count": 401
+    }
+  },
+  {
+    "id": 86,
+    "title": "Apple HomePod Mini Cosmic Grey",
+    "price": 99.99,
+    "description": "The Apple HomePod Mini in Cosmic Grey is a compact smart speaker that delivers impressive audio and integrates seamlessly with the Apple ecosystem for a smart home experience.",
+    "category": "Electronics",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-homepod-mini-cosmic-grey/thumbnail.webp",
+    "stock": 27,
+    "rating": {
+      "rate": 4.62,
+      "count": 384
+    }
+  },
+  {
+    "id": 87,
+    "title": "Apple iPhone Charger",
+    "price": 19.99,
+    "description": "The Apple iPhone Charger is a high-quality charger designed for fast and efficient charging of your iPhone. Ensure your device stays powered up and ready to go.",
+    "category": "Electronics",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/thumbnail.webp",
+    "stock": 31,
+    "rating": {
+      "rate": 4.15,
+      "count": 288
+    }
+  },
+  {
+    "id": 88,
+    "title": "Apple MagSafe Battery Pack",
+    "price": 99.99,
+    "description": "The Apple MagSafe Battery Pack is a portable and convenient way to add extra battery life to your MagSafe-compatible iPhone. Attach it magnetically for a secure connection.",
+    "category": "Electronics",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp",
+    "stock": 1,
+    "rating": {
+      "rate": 3.62,
+      "count": 346
+    }
+  },
+  {
+    "id": 89,
+    "title": "Apple Watch Series 4 Gold",
+    "price": 349.99,
+    "description": "The Apple Watch Series 4 in Gold is a stylish and advanced smartwatch with features like heart rate monitoring, fitness tracking, and a beautiful Retina display.",
+    "category": "Electronics",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-watch-series-4-gold/thumbnail.webp",
+    "stock": 33,
+    "rating": {
+      "rate": 2.74,
+      "count": 432
+    }
+  },
+  {
+    "id": 90,
     "title": "Beats Flex Wireless Earphones",
-    "description": "The Beats Flex Wireless Earphones offer a comfortable and versatile audio experience. With magnetic earbuds and up to 12 hours of battery life, they are ideal for everyday use.",
     "price": 49.99,
-    "category": "Tech",
-    "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
-    "images": [
-      "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp"
-    ],
-    "rating": 4.24,
-    "stock": 50
+    "description": "The Beats Flex Wireless Earphones offer a comfortable and versatile audio experience. With magnetic earbuds and up to 12 hours of battery life, they are ideal for everyday use.",
+    "category": "Electronics",
+    "image": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
+    "stock": 50,
+    "rating": {
+      "rate": 4.24,
+      "count": 403
+    }
+  },
+  {
+    "id": 91,
+    "title": "Generic Motorcycle",
+    "price": 3999.99,
+    "description": "The Generic Motorcycle is a versatile and reliable bike suitable for various riding preferences. With a balanced design, it provides a comfortable and efficient riding experience.",
+    "category": "Automotive",
+    "image": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp",
+    "stock": 34,
+    "rating": {
+      "rate": 4.91,
+      "count": 53
+    }
+  },
+  {
+    "id": 92,
+    "title": "Kawasaki Z800",
+    "price": 8999.99,
+    "description": "The Kawasaki Z800 is a powerful and agile sportbike known for its striking design and performance. It's equipped with advanced features, making it a favorite among motorcycle enthusiasts.",
+    "category": "Automotive",
+    "image": "https://cdn.dummyjson.com/product-images/motorcycle/kawasaki-z800/thumbnail.webp",
+    "stock": 52,
+    "rating": {
+      "rate": 3.98,
+      "count": 304
+    }
+  },
+  {
+    "id": 93,
+    "title": "MotoGP CI.H1",
+    "price": 14999.99,
+    "description": "The MotoGP CI.H1 is a high-performance motorcycle inspired by MotoGP racing technology. It offers cutting-edge features and precision engineering for an exhilarating riding experience.",
+    "category": "Automotive",
+    "image": "https://cdn.dummyjson.com/product-images/motorcycle/motogp-ci.h1/thumbnail.webp",
+    "stock": 10,
+    "rating": {
+      "rate": 2.97,
+      "count": 31
+    }
+  },
+  {
+    "id": 94,
+    "title": "Scooter Motorcycle",
+    "price": 2999.99,
+    "description": "The Scooter Motorcycle is a practical and fuel-efficient bike ideal for urban commuting. It features a step-through design and user-friendly controls for easy maneuverability.",
+    "category": "Automotive",
+    "image": "https://cdn.dummyjson.com/product-images/motorcycle/scooter-motorcycle/thumbnail.webp",
+    "stock": 84,
+    "rating": {
+      "rate": 2.53,
+      "count": 315
+    }
+  },
+  {
+    "id": 95,
+    "title": "Sportbike Motorcycle",
+    "price": 7499.99,
+    "description": "The Sportbike Motorcycle is designed for speed and agility, with a sleek and aerodynamic profile. It's suitable for riders looking for a dynamic and thrilling riding experience.",
+    "category": "Automotive",
+    "image": "https://cdn.dummyjson.com/product-images/motorcycle/sportbike-motorcycle/thumbnail.webp",
+    "stock": 0,
+    "rating": {
+      "rate": 3.94,
+      "count": 92
+    }
+  },
+  {
+    "id": 96,
+    "title": "Attitude Super Leaves Hand Soap",
+    "price": 8.99,
+    "description": "Attitude Super Leaves Hand Soap is a natural and nourishing hand soap enriched with the goodness of super leaves. It cleanses and moisturizes your hands, leaving them feeling fresh and soft.",
+    "category": "Beauty",
+    "image": "https://cdn.dummyjson.com/product-images/skin-care/attitude-super-leaves-hand-soap/thumbnail.webp",
+    "stock": 94,
+    "rating": {
+      "rate": 3.19,
+      "count": 391
+    }
+  },
+  {
+    "id": 97,
+    "title": "Olay Ultra Moisture Shea Butter Body Wash",
+    "price": 12.99,
+    "description": "Olay Ultra Moisture Shea Butter Body Wash is a luxurious body wash that hydrates and nourishes your skin with the moisturizing power of shea butter. Enjoy a rich lather and silky-smooth skin.",
+    "category": "Beauty",
+    "image": "https://cdn.dummyjson.com/product-images/skin-care/olay-ultra-moisture-shea-butter-body-wash/thumbnail.webp",
+    "stock": 34,
+    "rating": {
+      "rate": 4.51,
+      "count": 36
+    }
+  },
+  {
+    "id": 98,
+    "title": "Vaseline Men Body and Face Lotion",
+    "price": 9.99,
+    "description": "Vaseline Men Body and Face Lotion is a specially formulated lotion designed to provide long-lasting moisture to men's skin. It absorbs quickly and helps keep the skin hydrated and healthy.",
+    "category": "Beauty",
+    "image": "https://cdn.dummyjson.com/product-images/skin-care/vaseline-men-body-and-face-lotion/thumbnail.webp",
+    "stock": 95,
+    "rating": {
+      "rate": 3.16,
+      "count": 490
+    }
+  },
+  {
+    "id": 99,
+    "title": "American Football",
+    "price": 19.99,
+    "description": "The American Football is a classic ball used in American football games. It is designed for throwing and catching, making it an essential piece of equipment for the sport.",
+    "category": "Sports",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/american-football/thumbnail.webp",
+    "stock": 53,
+    "rating": {
+      "rate": 4.91,
+      "count": 33
+    }
+  },
+  {
+    "id": 100,
+    "title": "Baseball Ball",
+    "price": 8.99,
+    "description": "The Baseball Ball is a standard baseball used in baseball games. It features a durable leather cover and is designed for pitching, hitting, and fielding in the game of baseball.",
+    "category": "Sports",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
+    "stock": 100,
+    "rating": {
+      "rate": 2.57,
+      "count": 274
+    }
+  },
+  {
+    "id": 101,
+    "title": "Baseball Glove",
+    "price": 24.99,
+    "description": "The Baseball Glove is a protective glove worn by baseball players. It is designed to catch and field the baseball, providing players with comfort and control during the game.",
+    "category": "Sports",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-glove/thumbnail.webp",
+    "stock": 22,
+    "rating": {
+      "rate": 3.96,
+      "count": 474
+    }
+  },
+  {
+    "id": 102,
+    "title": "Basketball",
+    "price": 14.99,
+    "description": "The Basketball is a standard ball used in basketball games. It is designed for dribbling, shooting, and passing in the game of basketball, suitable for both indoor and outdoor play.",
+    "category": "Sports",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp",
+    "stock": 75,
+    "rating": {
+      "rate": 4.66,
+      "count": 291
+    }
+  },
+  {
+    "id": 103,
+    "title": "Basketball Rim",
+    "price": 39.99,
+    "description": "The Basketball Rim is a sturdy hoop and net assembly mounted on a basketball backboard. It provides a target for shooting and scoring in the game of basketball.",
+    "category": "Sports",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/basketball-rim/thumbnail.webp",
+    "stock": 43,
+    "rating": {
+      "rate": 4.6,
+      "count": 496
+    }
+  },
+  {
+    "id": 104,
+    "title": "Cricket Ball",
+    "price": 12.99,
+    "description": "The Cricket Ball is a hard leather ball used in the sport of cricket. It is bowled and batted in the game, and its hardness and seam contribute to the dynamics of cricket play.",
+    "category": "Sports",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-ball/thumbnail.webp",
+    "stock": 30,
+    "rating": {
+      "rate": 3.53,
+      "count": 212
+    }
+  },
+  {
+    "id": 105,
+    "title": "Cricket Bat",
+    "price": 29.99,
+    "description": "The Cricket Bat is an essential piece of cricket equipment used by batsmen to hit the cricket ball. It is made of wood and comes in various sizes and designs.",
+    "category": "Sports",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp",
+    "stock": 98,
+    "rating": {
+      "rate": 3.17,
+      "count": 171
+    }
+  },
+  {
+    "id": 106,
+    "title": "Cricket Helmet",
+    "price": 44.99,
+    "description": "The Cricket Helmet is a protective headgear worn by cricket players, especially batsmen and wicketkeepers. It provides protection against fast bowling and bouncers.",
+    "category": "Sports",
+    "image": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp",
+    "stock": 10,
+    "rating": {
+      "rate": 4.69,
+      "count": 173
+    }
+  },
+  {
+    "id": 107,
+    "title": "Black Sun Glasses",
+    "price": 29.99,
+    "description": "The Black Sun Glasses are a classic and stylish choice, featuring a sleek black frame and tinted lenses. They provide both UV protection and a fashionable look.",
+    "category": "Accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/black-sun-glasses/thumbnail.webp",
+    "stock": 60,
+    "rating": {
+      "rate": 4.41,
+      "count": 476
+    }
+  },
+  {
+    "id": 108,
+    "title": "Classic Sun Glasses",
+    "price": 24.99,
+    "description": "The Classic Sun Glasses offer a timeless design with a neutral frame and UV-protected lenses. These sunglasses are versatile and suitable for various occasions.",
+    "category": "Accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/thumbnail.webp",
+    "stock": 1,
+    "rating": {
+      "rate": 3.86,
+      "count": 111
+    }
+  },
+  {
+    "id": 109,
+    "title": "Green and Black Glasses",
+    "price": 34.99,
+    "description": "The Green and Black Glasses feature a bold combination of green and black colors, adding a touch of vibrancy to your eyewear collection. They are both stylish and eye-catching.",
+    "category": "Accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/green-and-black-glasses/thumbnail.webp",
+    "stock": 24,
+    "rating": {
+      "rate": 4.55,
+      "count": 330
+    }
+  },
+  {
+    "id": 110,
+    "title": "Party Glasses",
+    "price": 19.99,
+    "description": "The Party Glasses are designed to add flair to your party outfit. With unique shapes or colorful frames, they're perfect for adding a playful touch to your look during celebrations.",
+    "category": "Accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/thumbnail.webp",
+    "stock": 86,
+    "rating": {
+      "rate": 2.79,
+      "count": 195
+    }
+  },
+  {
+    "id": 111,
+    "title": "Sunglasses",
+    "price": 22.99,
+    "description": "The Sunglasses offer a classic and simple design with a focus on functionality. These sunglasses provide essential UV protection while maintaining a timeless look.",
+    "category": "Accessories",
+    "image": "https://cdn.dummyjson.com/product-images/sunglasses/sunglasses/thumbnail.webp",
+    "stock": 27,
+    "rating": {
+      "rate": 3.02,
+      "count": 213
+    }
+  },
+  {
+    "id": 112,
+    "title": "Blue Frock",
+    "price": 29.99,
+    "description": "The Blue Frock is a charming and stylish dress for various occasions. With a vibrant blue color and a comfortable design, it adds a touch of elegance to your wardrobe.",
+    "category": "Women",
+    "image": "https://cdn.dummyjson.com/product-images/tops/blue-frock/thumbnail.webp",
+    "stock": 52,
+    "rating": {
+      "rate": 4.17,
+      "count": 399
+    }
+  },
+  {
+    "id": 113,
+    "title": "Girl Summer Dress",
+    "price": 19.99,
+    "description": "The Girl Summer Dress is a cute and breezy dress designed for warm weather. With playful patterns and lightweight fabric, it's perfect for keeping cool and stylish during the summer.",
+    "category": "Women",
+    "image": "https://cdn.dummyjson.com/product-images/tops/girl-summer-dress/thumbnail.webp",
+    "stock": 43,
+    "rating": {
+      "rate": 4.77,
+      "count": 217
+    }
+  },
+  {
+    "id": 114,
+    "title": "Gray Dress",
+    "price": 34.99,
+    "description": "The Gray Dress is a versatile and chic option for various occasions. With a neutral gray color, it can be dressed up or down, making it a wardrobe staple for any fashion-forward individual.",
+    "category": "Women",
+    "image": "https://cdn.dummyjson.com/product-images/tops/gray-dress/thumbnail.webp",
+    "stock": 55,
+    "rating": {
+      "rate": 2.72,
+      "count": 152
+    }
+  },
+  {
+    "id": 115,
+    "title": "Short Frock",
+    "price": 24.99,
+    "description": "The Short Frock is a playful and trendy dress with a shorter length. Ideal for casual outings or special occasions, it combines style and comfort for a fashionable look.",
+    "category": "Women",
+    "image": "https://cdn.dummyjson.com/product-images/tops/short-frock/thumbnail.webp",
+    "stock": 22,
+    "rating": {
+      "rate": 3.23,
+      "count": 477
+    }
+  },
+  {
+    "id": 116,
+    "title": "Tartan Dress",
+    "price": 39.99,
+    "description": "The Tartan Dress features a classic tartan pattern, bringing a timeless and sophisticated touch to your wardrobe. Perfect for fall and winter, it adds a hint of traditional charm.",
+    "category": "Women",
+    "image": "https://cdn.dummyjson.com/product-images/tops/tartan-dress/thumbnail.webp",
+    "stock": 73,
+    "rating": {
+      "rate": 4.05,
+      "count": 270
+    }
+  },
+  {
+    "id": 117,
+    "title": "300 Touring",
+    "price": 28999.99,
+    "description": "The 300 Touring is a stylish and comfortable sedan, known for its luxurious features and smooth performance.",
+    "category": "Automotive",
+    "image": "https://cdn.dummyjson.com/product-images/vehicle/300-touring/thumbnail.webp",
+    "stock": 54,
+    "rating": {
+      "rate": 4.05,
+      "count": 23
+    }
+  },
+  {
+    "id": 118,
+    "title": "Charger SXT RWD",
+    "price": 32999.99,
+    "description": "The Charger SXT RWD is a powerful and sporty rear-wheel-drive sedan, offering a blend of performance and practicality.",
+    "category": "Automotive",
+    "image": "https://cdn.dummyjson.com/product-images/vehicle/charger-sxt-rwd/thumbnail.webp",
+    "stock": 57,
+    "rating": {
+      "rate": 2.58,
+      "count": 452
+    }
+  },
+  {
+    "id": 119,
+    "title": "Dodge Hornet GT Plus",
+    "price": 24999.99,
+    "description": "The Dodge Hornet GT Plus is a compact and agile hatchback, perfect for urban driving with a touch of sportiness.",
+    "category": "Automotive",
+    "image": "https://cdn.dummyjson.com/product-images/vehicle/dodge-hornet-gt-plus/thumbnail.webp",
+    "stock": 82,
+    "rating": {
+      "rate": 2.65,
+      "count": 499
+    }
+  },
+  {
+    "id": 120,
+    "title": "Blue Women's Handbag",
+    "price": 49.99,
+    "description": "The Blue Women's Handbag is a stylish and spacious accessory for everyday use. With a vibrant blue color and multiple compartments, it combines fashion and functionality.",
+    "category": "Women",
+    "image": "https://cdn.dummyjson.com/product-images/womens-bags/blue-women's-handbag/thumbnail.webp",
+    "stock": 76,
+    "rating": {
+      "rate": 2.92,
+      "count": 27
+    }
+  },
+  {
+    "id": 121,
+    "title": "Heshe Women's Leather Bag",
+    "price": 129.99,
+    "description": "The Heshe Women's Leather Bag is a luxurious and high-quality leather bag for the sophisticated woman. With a timeless design and durable craftsmanship, it's a versatile accessory.",
+    "category": "Women",
+    "image": "https://cdn.dummyjson.com/product-images/womens-bags/heshe-women's-leather-bag/thumbnail.webp",
+    "stock": 99,
+    "rating": {
+      "rate": 4.92,
+      "count": 75
+    }
+  },
+  {
+    "id": 122,
+    "title": "Prada Women Bag",
+    "price": 599.99,
+    "description": "The Prada Women Bag is an iconic designer bag that exudes elegance and luxury. Crafted with precision and featuring the Prada logo, it's a statement piece for fashion enthusiasts.",
+    "category": "Women",
+    "image": "https://cdn.dummyjson.com/product-images/womens-bags/prada-women-bag/thumbnail.webp",
+    "stock": 75,
+    "rating": {
+      "rate": 2.71,
+      "count": 136
+    }
+  },
+  {
+    "id": 123,
+    "title": "White Faux Leather Backpack",
+    "price": 39.99,
+    "description": "The White Faux Leather Backpack is a trendy and practical backpack for the modern woman. With a sleek white design and ample storage space, it's perfect for both casual and on-the-go styles.",
+    "category": "Women",
+    "image": "https://cdn.dummyjson.com/product-images/womens-bags/white-faux-leather-backpack/thumbnail.webp",
+    "stock": 39,
+    "rating": {
+      "rate": 3.36,
+      "count": 48
+    }
+  },
+  {
+    "id": 124,
+    "title": "Majestic Mountain Graphic T-Shirt",
+    "price": 44,
+    "description": "Elevate your wardrobe with this stylish black t-shirt featuring a striking monochrome mountain range graphic. Perfect for those who love the outdoors or want to add a touch of nature-inspired design to their look, this tee is crafted from soft, breathable fabric ensuring all-day comfort. Ideal for casual outings or as a unique gift, this t-shirt is a versatile addition to any collection.",
+    "category": "Men",
+    "image": "https://i.imgur.com/QkIa5tT.jpeg",
+    "stock": 43,
+    "rating": {
+      "rate": 3.8,
+      "count": 67
+    }
+  },
+  {
+    "id": 125,
+    "title": "Classic Red Pullover Hoodie",
+    "price": 10,
+    "description": "Elevate your casual wardrobe with our Classic Red Pullover Hoodie. Crafted with a soft cotton blend for ultimate comfort, this vibrant red hoodie features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs for a snug fit. The timeless design ensures easy pairing with jeans or joggers for a relaxed yet stylish look, making it a versatile addition to your everyday attire.",
+    "category": "Men",
+    "image": "https://i.imgur.com/1twoaDy.jpeg",
+    "stock": 145,
+    "rating": {
+      "rate": 4.9,
+      "count": 319
+    }
+  },
+  {
+    "id": 126,
+    "title": "Classic Heather Gray Hoodie",
+    "price": 69,
+    "description": "Stay cozy and stylish with our Classic Heather Gray Hoodie. Crafted from soft, durable fabric, it features a kangaroo pocket, adjustable drawstring hood, and ribbed cuffs. Perfect for a casual day out or a relaxing evening in, this hoodie is a versatile addition to any wardrobe.",
+    "category": "Men",
+    "image": "https://i.imgur.com/cHddUCu.jpeg",
+    "stock": 113,
+    "rating": {
+      "rate": 4.5,
+      "count": 129
+    }
+  },
+  {
+    "id": 127,
+    "title": "Classic Grey Hooded Sweatshirt",
+    "price": 90,
+    "description": "Elevate your casual wear with our Classic Grey Hooded Sweatshirt. Made from a soft cotton blend, this hoodie features a front kangaroo pocket, an adjustable drawstring hood, and ribbed cuffs for a snug fit. Perfect for those chilly evenings or lazy weekends, it pairs effortlessly with your favorite jeans or joggers.",
+    "category": "Men",
+    "image": "https://i.imgur.com/R2PN9Wq.jpeg",
+    "stock": 112,
+    "rating": {
+      "rate": 3.7,
+      "count": 75
+    }
+  },
+  {
+    "id": 128,
+    "title": "Classic Black Hooded Sweatshirt",
+    "price": 79,
+    "description": "Elevate your casual wardrobe with our Classic Black Hooded Sweatshirt. Made from high-quality, soft fabric that ensures comfort and durability, this hoodie features a spacious kangaroo pocket and an adjustable drawstring hood. Its versatile design makes it perfect for a relaxed day at home or a casual outing.",
+    "category": "Men",
+    "image": "https://i.imgur.com/cSytoSD.jpeg",
+    "stock": 10,
+    "rating": {
+      "rate": 4.7,
+      "count": 392
+    }
+  },
+  {
+    "id": 129,
+    "title": "Classic Comfort Fit Joggers",
+    "price": 25,
+    "description": "Discover the perfect blend of style and comfort with our Classic Comfort Fit Joggers. These versatile black joggers feature a soft elastic waistband with an adjustable drawstring, two side pockets, and ribbed ankle cuffs for a secure fit. Made from a lightweight and durable fabric, they are ideal for both active days and relaxed lounging.",
+    "category": "Men",
+    "image": "https://i.imgur.com/ZKGofuB.jpeg",
+    "stock": 128,
+    "rating": {
+      "rate": 3.3,
+      "count": 143
+    }
+  },
+  {
+    "id": 130,
+    "title": "Classic Comfort Drawstring Joggers",
+    "price": 79,
+    "description": "Experience the perfect blend of comfort and style with our Classic Comfort Drawstring Joggers. Designed for a relaxed fit, these joggers feature a soft, stretchable fabric, convenient side pockets, and an adjustable drawstring waist with elegant gold-tipped detailing. Ideal for lounging or running errands, these pants will quickly become your go-to for effortless, casual wear.",
+    "category": "Men",
+    "image": "https://i.imgur.com/mp3rUty.jpeg",
+    "stock": 199,
+    "rating": {
+      "rate": 3.1,
+      "count": 481
+    }
+  },
+  {
+    "id": 131,
+    "title": "Classic Red Jogger Sweatpants",
+    "price": 98,
+    "description": "Experience ultimate comfort with our red jogger sweatpants, perfect for both workout sessions and lounging around the house. Made with soft, durable fabric, these joggers feature a snug waistband, adjustable drawstring, and practical side pockets for functionality. Their tapered design and elastic cuffs offer a modern fit that keeps you looking stylish on the go.",
+    "category": "Men",
+    "image": "https://i.imgur.com/9LFjwpI.jpeg",
+    "stock": 96,
+    "rating": {
+      "rate": 4.2,
+      "count": 198
+    }
+  },
+  {
+    "id": 132,
+    "title": "Classic Navy Blue Baseball Cap",
+    "price": 61,
+    "description": "Step out in style with this sleek navy blue baseball cap. Crafted from durable material, it features a smooth, structured design and an adjustable strap for the perfect fit. Protect your eyes from the sun and complement your casual looks with this versatile and timeless accessory.",
+    "category": "Men",
+    "image": "https://i.imgur.com/R3iobJA.jpeg",
+    "stock": 113,
+    "rating": {
+      "rate": 3.8,
+      "count": 111
+    }
+  },
+  {
+    "id": 133,
+    "title": "Classic Blue Baseball Cap",
+    "price": 86,
+    "description": "Top off your casual look with our Classic Blue Baseball Cap, made from high-quality materials for lasting comfort. Featuring a timeless six-panel design with a pre-curved visor, this adjustable cap offers both style and practicality for everyday wear.",
+    "category": "Men",
+    "image": "https://i.imgur.com/wXuQ7bm.jpeg",
+    "stock": 102,
+    "rating": {
+      "rate": 3.2,
+      "count": 195
+    }
+  },
+  {
+    "id": 134,
+    "title": "Futuristic Holographic Soccer Cleats",
+    "price": 39,
+    "description": "Step onto the field and stand out from the crowd with these eye-catching holographic soccer cleats. Designed for the modern player, these cleats feature a sleek silhouette, lightweight construction for maximum agility, and durable studs for optimal traction. The shimmering holographic finish reflects a rainbow of colors as you move, ensuring that you'll be noticed for both your skills and style. Perfect for the fashion-forward athlete who wants to make a statement.",
+    "category": "Men",
+    "image": "https://i.imgur.com/qNOjJje.jpeg",
+    "stock": 98,
+    "rating": {
+      "rate": 3.2,
+      "count": 279
+    }
+  },
+  {
+    "id": 135,
+    "title": "Rainbow Glitter High Heels",
+    "price": 39,
+    "description": "Step into the spotlight with these eye-catching rainbow glitter high heels. Designed to dazzle, each shoe boasts a kaleidoscope of shimmering colors that catch and reflect light with every step. Perfect for special occasions or a night out, these stunners are sure to turn heads and elevate any ensemble.",
+    "category": "Women",
+    "image": "https://i.imgur.com/62gGzeF.jpeg",
+    "stock": 81,
+    "rating": {
+      "rate": 4,
+      "count": 307
+    }
+  },
+  {
+    "id": 136,
+    "title": "Chic Summer Denim Espadrille Sandals",
+    "price": 33,
+    "description": "Step into summer with style in our denim espadrille sandals. Featuring a braided jute sole for a classic touch and adjustable denim straps for a snug fit, these sandals offer both comfort and a fashionable edge. The easy slip-on design ensures convenience for beach days or casual outings.",
+    "category": "Men",
+    "image": "https://i.imgur.com/9qrmE1b.jpeg",
+    "stock": 135,
+    "rating": {
+      "rate": 3.7,
+      "count": 413
+    }
+  },
+  {
+    "id": 137,
+    "title": "Vibrant Runners: Bold Orange & Blue Sneakers",
+    "price": 27,
+    "description": "Step into style with these eye-catching sneakers featuring a striking combination of orange and blue hues. Designed for both comfort and fashion, these shoes come with flexible soles and cushioned insoles, perfect for active individuals who don't compromise on style. The reflective silver accents add a touch of modernity, making them a standout accessory for your workout or casual wear.",
+    "category": "Men",
+    "image": "https://i.imgur.com/hKcMNJs.jpeg",
+    "stock": 116,
+    "rating": {
+      "rate": 4,
+      "count": 411
+    }
+  },
+  {
+    "id": 138,
+    "title": "Vibrant Pink Classic Sneakers",
+    "price": 84,
+    "description": "Step into style with our Vibrant Pink Classic Sneakers! These eye-catching shoes feature a bold pink hue with iconic white detailing, offering a sleek, timeless design. Constructed with durable materials and a comfortable fit, they are perfect for those seeking a pop of color in their everyday footwear. Grab a pair today and add some vibrancy to your step!",
+    "category": "Men",
+    "image": "https://i.imgur.com/mcW42Gi.jpeg",
+    "stock": 194,
+    "rating": {
+      "rate": 4.3,
+      "count": 421
+    }
+  },
+  {
+    "id": 139,
+    "title": "Futuristic Silver and Gold High-Top Sneaker",
+    "price": 68,
+    "description": "Step into the future with this eye-catching high-top sneaker, designed for those who dare to stand out. The sneaker features a sleek silver body with striking gold accents, offering a modern twist on classic footwear. Its high-top design provides support and style, making it the perfect addition to any avant-garde fashion collection. Grab a pair today and elevate your shoe game!",
+    "category": "Men",
+    "image": "https://i.imgur.com/npLfCGq.jpeg",
+    "stock": 40,
+    "rating": {
+      "rate": 3.4,
+      "count": 157
+    }
+  },
+  {
+    "id": 140,
+    "title": "Futuristic Chic High-Heel Boots",
+    "price": 36,
+    "description": "Elevate your style with our cutting-edge high-heel boots that blend bold design with avant-garde aesthetics. These boots feature a unique color-block heel, a sleek silhouette, and a versatile light grey finish that pairs easily with any cutting-edge outfit. Crafted for the fashion-forward individual, these boots are sure to make a statement.",
+    "category": "Women",
+    "image": "https://i.imgur.com/HqYqLnW.jpeg",
+    "stock": 53,
+    "rating": {
+      "rate": 3.6,
+      "count": 380
+    }
+  },
+  {
+    "id": 141,
+    "title": "Elegant Patent Leather Peep-Toe Pumps with Gold-Tone Heel",
+    "price": 53,
+    "description": "Step into sophistication with these chic peep-toe pumps, showcasing a lustrous patent leather finish and an eye-catching gold-tone block heel. The ornate buckle detail adds a touch of glamour, perfect for elevating your evening attire or complementing a polished daytime look.",
+    "category": "Women",
+    "image": "https://i.imgur.com/AzAY4Ed.jpeg",
+    "stock": 31,
+    "rating": {
+      "rate": 3.3,
+      "count": 192
+    }
+  },
+  {
+    "id": 142,
+    "title": "Elegant Purple Leather Loafers",
+    "price": 17,
+    "description": "Step into sophistication with our Elegant Purple Leather Loafers, perfect for making a bold statement. Crafted from high-quality leather with a vibrant purple finish, these shoes feature a classic loafer silhouette that's been updated with a contemporary twist. The comfortable slip-on design and durable soles ensure both style and functionality for the modern man.",
+    "category": "Men",
+    "image": "https://i.imgur.com/Au8J9sX.jpeg",
+    "stock": 118,
+    "rating": {
+      "rate": 4.5,
+      "count": 249
+    }
+  },
+  {
+    "id": 143,
+    "title": "Classic Blue Suede Casual Shoes",
+    "price": 39,
+    "description": "Step into comfort with our Classic Blue Suede Casual Shoes, perfect for everyday wear. These shoes feature a stylish blue suede upper, durable rubber soles for superior traction, and classic lace-up fronts for a snug fit. The sleek design pairs well with both jeans and chinos, making them a versatile addition to any wardrobe.",
+    "category": "Men",
+    "image": "https://i.imgur.com/sC0ztOB.jpeg",
+    "stock": 10,
+    "rating": {
+      "rate": 4.3,
+      "count": 415
+    }
+  },
+  {
+  "id": 144,
+  "title": "Luxury Leather Sofa",
+  "description": "Premium 3-seater leather sofa with soft cushions and wooden frame.",
+  "price": 45999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg"
+  ],
+  "stock": 15,
+  "rating": {
+    "rate": 4.8,
+    "count": 215
   }
-  ]}
+},
+{
+  "id": 145,
+  "title": "Modern Coffee Table",
+  "description": "Elegant wooden coffee table with storage shelf.",
+  "price": 6999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg"
+  ],
+  "stock": 25,
+  "rating": {
+    "rate": 4.5,
+    "count": 180
+  }
+},
+{
+  "id": 146,
+  "title": "Wooden TV Unit",
+  "description": "Spacious TV cabinet with multiple storage compartments.",
+  "price": 12999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg"
+  ],
+  "stock": 18,
+  "rating": {
+    "rate": 4.6,
+    "count": 156
+  }
+},
+{
+  "id": 147,
+  "title": "Queen Size Bed",
+  "description": "Solid wood queen bed with durable finish.",
+  "price": 32999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg"
+  ],
+  "stock": 10,
+  "rating": {
+    "rate": 4.7,
+    "count": 201
+  }
+},
+{
+  "id": 148,
+  "title": "Office Desk",
+  "description": "Modern office desk with drawers and cable management.",
+  "price": 10999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg"
+  ],
+  "stock": 21,
+  "rating": {
+    "rate": 4.4,
+    "count": 143
+  }
+},
+{
+  "id": 149,
+  "title": "Executive Office Chair",
+  "description": "Comfortable ergonomic office chair with lumbar support.",
+  "price": 8999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg"
+  ],
+  "stock": 32,
+  "rating": {
+    "rate": 4.6,
+    "count": 187
+  }
+},
+{
+  "id": 150,
+  "title": "Bookshelf Cabinet",
+  "description": "Five-tier wooden bookshelf for books and decorations.",
+  "price": 7499,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg"
+  ],
+  "stock": 20,
+  "rating": {
+    "rate": 4.3,
+    "count": 165
+  }
+},
+{
+  "id": 151,
+  "title": "Dining Table Set",
+  "description": "6-seater dining table with comfortable chairs.",
+  "price": 27999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg"
+  ],
+  "stock": 12,
+  "rating": {
+    "rate": 4.7,
+    "count": 220
+  }
+},
+{
+  "id": 152,
+  "title": "Wooden Wardrobe",
+  "description": "3-door wardrobe with shelves and hanging space.",
+  "price": 25999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/6585750/pexels-photo-6585750.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/6585750/pexels-photo-6585750.jpeg"
+  ],
+  "stock": 14,
+  "rating": {
+    "rate": 4.5,
+    "count": 171
+  }
+},
+{
+  "id": 153,
+  "title": "Study Chair",
+  "description": "Comfortable wooden chair suitable for study and work.",
+  "price": 3499,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/1957478/pexels-photo-1957478.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/1957478/pexels-photo-1957478.jpeg"
+  ],
+  "stock": 40,
+  "rating": {
+    "rate": 4.2,
+    "count": 148
+  }
+},{
+  "id": 154,
+  "title": "Shoe Rack",
+  "description": "Multi-layer wooden shoe rack for organized storage.",
+  "price": 2999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/5824519/pexels-photo-5824519.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/5824519/pexels-photo-5824519.jpeg"
+  ],
+  "stock": 27,
+  "rating": {
+    "rate": 4.3,
+    "count": 163
+  }
+},
+{
+  "id": 155,
+  "title": "Side Table",
+  "description": "Compact wooden side table for bedroom or living room.",
+  "price": 2499,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg"
+  ],
+  "stock": 31,
+  "rating": {
+    "rate": 4.4,
+    "count": 176
+  }
+},
+{
+  "id": 156,
+  "title": "Recliner Sofa",
+  "description": "Luxury recliner sofa with adjustable seating positions.",
+  "price": 49999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/276528/pexels-photo-276528.jpeg"
+  ],
+  "stock": 8,
+  "rating": {
+    "rate": 4.9,
+    "count": 241
+  }
+},
+{
+  "id": 157,
+  "title": "Wooden Bench",
+  "description": "Solid wood bench suitable for indoor and outdoor use.",
+  "price": 5999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg"
+  ],
+  "stock": 19,
+  "rating": {
+    "rate": 4.2,
+    "count": 151
+  }
+},
+{
+  "id": 158,
+  "title": "Corner Shelf",
+  "description": "Space-saving corner shelf for home decor.",
+  "price": 3999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/46274/pexels-photo-46274.jpeg"
+  ],
+  "stock": 24,
+  "rating": {
+    "rate": 4.4,
+    "count": 167
+  }
+},
+{
+  "id": 159,
+  "title": "Console Table",
+  "description": "Stylish wooden console table for entryway or hallway.",
+  "price": 8999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg"
+  ],
+  "stock": 16,
+  "rating": {
+    "rate": 4.5,
+    "count": 189
+  }
+},
+{
+  "id": 160,
+  "title": "Wooden Chest of Drawers",
+  "description": "Classic chest with five spacious drawers.",
+  "price": 15999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/6585750/pexels-photo-6585750.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/6585750/pexels-photo-6585750.jpeg"
+  ],
+  "stock": 11,
+  "rating": {
+    "rate": 4.6,
+    "count": 194
+  }
+},
+{
+  "id": 161,
+  "title": "Accent Chair",
+  "description": "Modern accent chair with premium fabric upholstery.",
+  "price": 7999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/1957477/pexels-photo-1957477.jpeg"
+  ],
+  "stock": 22,
+  "rating": {
+    "rate": 4.5,
+    "count": 182
+  }
+},
+{
+  "id": 162,
+  "title": "Wooden Bar Stool",
+  "description": "Elegant bar stool crafted from premium wood.",
+  "price": 2999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/1957478/pexels-photo-1957478.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/1957478/pexels-photo-1957478.jpeg"
+  ],
+  "stock": 28,
+  "rating": {
+    "rate": 4.3,
+    "count": 169
+  }
+},
+{
+  "id": 163,
+  "title": "Luxury King Size Bed",
+  "description": "Premium king-size wooden bed with elegant finish.",
+  "price": 45999,
+  "category": "Furniture",
+  "image": "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg",
+  "images": [
+    "https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg"
+  ],
+  "stock": 9,
+  "rating": {
+    "rate": 4.9,
+    "count": 233
+  }
+}
+]
+}

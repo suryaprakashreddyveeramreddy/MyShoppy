@@ -39,8 +39,8 @@ const loadProduct = async () => {
       throw new Error(`HTTP Error: ${response.status}`);
     }
 
-    const data = await response.json();
-    setProduct(data);
+   const data = await response.json();
+setProduct(data);
   } catch (error) {
     console.error("Error loading product:", error);
   } finally {
@@ -84,10 +84,11 @@ if (!product) {
           />
         </TouchableOpacity>
 
-        <Image
-          source={{ uri: product.thumbnail }}
-          style={styles.image}
-        />
+       <Image
+  source={{ uri: product.image }}
+  style={styles.image}
+  resizeMode="contain"
+/>
 
         <View style={styles.content}>
           <Text style={styles.title}>
